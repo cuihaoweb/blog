@@ -63,6 +63,10 @@ const config: Config = {
 
     themeConfig: {
         image: 'img/docusaurus-social-card.jpg',
+        metadata: [
+            {name: 'keywords', content: 'ch,blog'},
+            {name: 'google-site-verification', content: 'fs5EybByxqvIchWyU4mIpxHS8HJrFYX8flIiBwdT6ps'}
+        ],
         navbar: {
             title: 'ChBlog',
             logo: {
