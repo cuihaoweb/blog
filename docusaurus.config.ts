@@ -7,7 +7,7 @@ const config: Config = {
     tagline: 'welcom to my blog',
     favicon: 'img/logo.ico',
 
-    url: 'https://github.com',
+    url: 'https://blog.chdl.fun',
     baseUrl: '/ChBlog/',
     projectName: 'blog', // Usually your repo name.
     organizationName: 'cuihaoweb', // Usually your GitHub org/user name.
