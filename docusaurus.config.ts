@@ -67,6 +67,9 @@ const config: Config = {
             {name: 'keywords', content: 'ch,blog'},
             {name: 'google-site-verification', content: 'fs5EybByxqvIchWyU4mIpxHS8HJrFYX8flIiBwdT6ps'}
         ],
+        colorMode: {
+            defaultMode: 'dark'
+        },
         navbar: {
             title: 'ChBlog',
             logo: {
