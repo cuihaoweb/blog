@@ -7,10 +7,8 @@ const config: Config = {
     tagline: 'welcom to my blog',
     favicon: 'img/logo.ico',
 
-
-    url: 'https://your-docusaurus-site.example.com',
+    url: 'https://github.com',
     baseUrl: '/blog/',
-
     projectName: 'blog', // Usually your repo name.
     organizationName: 'cuihaoweb', // Usually your GitHub org/user name.
     deploymentBranch: 'rb',
