@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknext_js_guides=self.webpackChunknext_js_guides||[]).push([[103],{8218:s=>{s.exports=JSON.parse('{"label":"css","permalink":"/ChBlog/en/blog/tags/css","allTagsPath":"/ChBlog/en/blog/tags","count":3,"unlisted":false}')}}]);
