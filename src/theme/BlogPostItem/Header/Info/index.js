@@ -39,9 +39,7 @@ function Spacer() {
 }
 export default function BlogPostItemHeaderInfo({ className }) {
     const { metadata } = useBlogPost();
-    console.log(`🚀 ~ file: index.js:42 ~ BlogPostItemHeaderInfo ~ metadata:`, metadata);
     const { date, formattedDate, readingTime } = metadata;
-    console.log(`🚀 ~ file: index.js:43 ~ BlogPostItemHeaderInfo ~ formattedDate:`, formattedDate);
     return (
         <div className={clsx(styles.container, 'margin-vert--md', className)}>
             <Date date={date} formattedDate={formattedDate} />
