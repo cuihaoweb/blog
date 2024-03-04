@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknext_js_guides=self.webpackChunknext_js_guides||[]).push([[847],{1682:s=>{s.exports=JSON.parse('[{"label":"css","permalink":"/blog/en/blog/tags/css","count":3}]')}}]);
