@@ -1,0 +1,18 @@
+kind: pipeline
+type: exec
+name: blog
+
+platform:
+  os: linux
+  arch: amd64
+
+trigger:
+  branch:
+    - rb
+
+steps:
+  - name: build
+    commands:
+      - rm -rf /home/cuihao/nginx/assets/blog
+      - mkdir -p /home/cuihao/nginx/assets/blog
+      - mv blog/ /home/cuihao/nginx/assets/blog
