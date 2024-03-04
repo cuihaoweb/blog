@@ -32,7 +32,7 @@ jobs:
           shopt -s extglob
           rm -rf .vitepress
           rm -rf !(build)
-          mv build/ blog
+          mv build blog
 
       - name: Deploy rb branch
         uses: JamesIves/github-pages-deploy-action@v4
