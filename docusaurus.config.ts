@@ -11,9 +11,9 @@ const config: Config = {
     url: 'https://your-docusaurus-site.example.com',
     baseUrl: '/blog/',
 
+    projectName: 'blog', // Usually your repo name.
     organizationName: 'cuihaoweb', // Usually your GitHub org/user name.
     deploymentBranch: 'rb',
-    projectName: 'docusaurus', // Usually your repo name.
 
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
