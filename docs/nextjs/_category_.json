@@ -1,0 +1,8 @@
+{
+  "label": "NextJs",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "本教程的目标是帮助读者快速掌握 Next.js 14 版本的使用。目前市面上的教程多数是基于 13 版本或更早版本的，而本教程将重点介绍 Next.js 14 版本，并全文采用 App Router 模式进行演示。对于使用 Page Router 模式的读者，建议逐步切换到 App Router 模式。请注意，本教程正在持续更新中。"
+  }
+}

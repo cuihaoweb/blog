@@ -78,19 +78,23 @@ const config: Config = {
                 src: 'img/logo.png',
             },
             items: [
-                // {
-                //     type: 'docSidebar',
-                //     sidebarId: 'tutorialSidebar',
-                //     position: 'right',
-                //     label: 'Tutorial',
-                // },
+                {
+                    to: '/docs/intro',
+                    label: '教程',
+                    position: 'right',
+                    items: [
+                        {
+                            to: '/docs/category/nextjs', label: 'NextJs教程'
+                        }
+                    ]
+                },
                 { to: '/blog', label: 'Blog', position: 'right' },
-                { type: 'localeDropdown', position: 'right' },
                 {
                     href: 'https://github.com/cuihaoweb',
                     label: 'GitHub',
                     position: 'right',
-                }
+                },
+                { type: 'localeDropdown', position: 'right' }
             ],
         },
         footer: {
