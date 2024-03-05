@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknext_js_guides=self.webpackChunknext_js_guides||[]).push([[3061],{8664:e=>{e.exports=JSON.parse('{"permalink":"/ChBlog/blog/tags/ssg","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

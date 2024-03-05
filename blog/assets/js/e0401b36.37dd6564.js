@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknext_js_guides=self.webpackChunknext_js_guides||[]).push([[5338],{8946:e=>{e.exports=JSON.parse('{"label":"react","permalink":"/ChBlog/blog/tags/react","allTagsPath":"/ChBlog/blog/tags","count":1,"unlisted":false}')}}]);
