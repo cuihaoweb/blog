@@ -1,4 +1,5 @@
 ---
+slug: how-to-select-ssg-frame
 keywords: [hexo, vitepress, docusaurus]
 authors: cuihao
 tags: [ssg, frame]
