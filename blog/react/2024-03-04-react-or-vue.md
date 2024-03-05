@@ -2,7 +2,7 @@
 slug: react-or-vue
 keywords: [react, vue, react-vs-vue]
 authors: cuihao
-tags: [css]
+tags: [react, vue]
 ---
 
 # React 还是 Vue，哪个 JS 框架最好？

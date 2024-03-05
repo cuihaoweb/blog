@@ -2,7 +2,7 @@
 slug: what-is-docker
 keywords: [docker, 容器化技术, 移植性, 隔离性]
 authors: cuihao
-tags: [css]
+tags: [docker]
 ---
 
 # Docker的作用，到底解决了什么痛点?
