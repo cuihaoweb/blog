@@ -130,12 +130,12 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hexo、VitePress、Docusaurus，哪个最适合你的静态网站生成器？]]></title>
-        <id>https://blog.chdl.fun/ChBlog/en/blog/2024/03/05/how-to-select-ssg-frame</id>
-        <link href="https://blog.chdl.fun/ChBlog/en/blog/2024/03/05/how-to-select-ssg-frame"/>
+        <id>https://blog.chdl.fun/ChBlog/en/blog/how-to-select-ssg-frame</id>
+        <link href="https://blog.chdl.fun/ChBlog/en/blog/how-to-select-ssg-frame"/>
         <updated>2024-03-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[在选择合适的静态网站生成器时，Hexo、VitePress、Docusaurus是三个备受关注的选项，那么到底哪一个框架更适合你呢？本文将从使用场景、社区生态、功能、性能、扩展性这五个方面，帮你全方位分析各个框架的优缺点，以便为你的技术选型提供参考。]]></summary>
         <content type="html"><![CDATA[<p>在选择合适的静态网站生成器时，Hexo、VitePress、Docusaurus是三个备受关注的选项，那么到底哪一个框架更适合你呢？本文将从使用场景、社区生态、功能、性能、扩展性这五个方面，帮你全方位分析各个框架的优缺点，以便为你的技术选型提供参考。</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="1应用场景">1、应用场景<!-- --><a href="https://blog.chdl.fun/ChBlog/en/blog/2024/03/05/how-to-select-ssg-frame#1%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF" class="hash-link" aria-label="Direct link to 1、应用场景" title="Direct link to 1、应用场景">​</a></h2>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="1应用场景">1、应用场景<!-- --><a href="https://blog.chdl.fun/ChBlog/en/blog/how-to-select-ssg-frame#1%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF" class="hash-link" aria-label="Direct link to 1、应用场景" title="Direct link to 1、应用场景">​</a></h2>
 <!-- --><ul>
 <!-- --><li>
 <!-- --><p><a href="https://hexo.io/" target="_blank" rel="noopener noreferrer">Hexo</a>, 官方定位自己是 <!-- --><a href="https://hexo.io/" target="_blank" rel="noopener noreferrer">"快速、简洁且高效的博客框架"</a> , 但是它同样适合构建简单的文档网站，它具有简单易用的特点，适合那些对技术要求不高的个人用户快速搭建和管理网站。<!-- --></p>
@@ -147,10 +147,10 @@
 <!-- --><p><a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>, 基于react的SSG框架，相比与VitePress，Docusaurus支持博客和文档系统，同时也提供了一定的定制化能力，同样对于专业的前端开发者来说也可以自己定制主题，对于非技术人员有一定的门槛。<!-- --></p>
 <!-- --></li>
 <!-- --></ul>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="2功能">2、功能<!-- --><a href="https://blog.chdl.fun/ChBlog/en/blog/2024/03/05/how-to-select-ssg-frame#2%E5%8A%9F%E8%83%BD" class="hash-link" aria-label="Direct link to 2、功能" title="Direct link to 2、功能">​</a></h2>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="2功能">2、功能<!-- --><a href="https://blog.chdl.fun/ChBlog/en/blog/how-to-select-ssg-frame#2%E5%8A%9F%E8%83%BD" class="hash-link" aria-label="Direct link to 2、功能" title="Direct link to 2、功能">​</a></h2>
 <!-- --><table><thead><tr><th>框架</th><th>国际化</th><th>主题切换</th><th>本地搜索</th><th>markdown语法</th></tr></thead><tbody><tr><td>hexo</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td></tr><tr><td>vitepress</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td></tr><tr><td>docusaurus</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td></tr></tbody></table>
 <!-- --><p>常见的功能，这些框架都支持，所以大家可以放心使用。</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="3社区生态">3、社区生态<!-- --><a href="https://blog.chdl.fun/ChBlog/en/blog/2024/03/05/how-to-select-ssg-frame#3%E7%A4%BE%E5%8C%BA%E7%94%9F%E6%80%81" class="hash-link" aria-label="Direct link to 3、社区生态" title="Direct link to 3、社区生态">​</a></h2>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="3社区生态">3、社区生态<!-- --><a href="https://blog.chdl.fun/ChBlog/en/blog/how-to-select-ssg-frame#3%E7%A4%BE%E5%8C%BA%E7%94%9F%E6%80%81" class="hash-link" aria-label="Direct link to 3、社区生态" title="Direct link to 3、社区生态">​</a></h2>
 <!-- --><p><strong>社区：</strong></p>
 <!-- --><ul>
 <!-- --><li>Hexo, 由众多的独立开发者和用户提供支持和贡献，其社区十分活跃，你可以在社区中找到帮助和解决方案。</li>
@@ -170,7 +170,7 @@
 <!-- --><p>主题模板是静态网站生成器中用于定义网站外观和布局的重要组成部分。Hexo、VitePress和Docusaurus都提供了丰富的主题模板供选择。</p>
 <!-- --><p>Hexo拥有官方和第三方主题，可满足不同风格和需求；VitePress提供默认主题和自定义选项，适用于简洁的开源项目文档网站；Docusaurus的官方主题同样适合构建开源项目文档网站，并支持自定义布局和组件。</p>
 <!-- --><p>在选择主题模板时，应考虑风格、功能定制和社区支持。通过选择适合的主题模板，您可以快速打造吸引人、个性化的网站，满足您的需求和品味。</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="4性能">4、性能<!-- --><a href="https://blog.chdl.fun/ChBlog/en/blog/2024/03/05/how-to-select-ssg-frame#4%E6%80%A7%E8%83%BD" class="hash-link" aria-label="Direct link to 4、性能" title="Direct link to 4、性能">​</a></h2>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="4性能">4、性能<!-- --><a href="https://blog.chdl.fun/ChBlog/en/blog/how-to-select-ssg-frame#4%E6%80%A7%E8%83%BD" class="hash-link" aria-label="Direct link to 4、性能" title="Direct link to 4、性能">​</a></h2>
 <!-- --><p>说性能之前，得先知道各个框架底层的渲染框架，</p>
 <!-- --><ul>
 <!-- --><li>hexo，底层使用EJS，EJS是一款 <!-- --><a href="https://ejs.co/" target="_blank" rel="noopener noreferrer">"嵌入式 JavaScript 模板"</a> , 因此hexo的运行时依赖很少，具有原生html的性能。<!-- --></li>
@@ -181,19 +181,19 @@
 <!-- --></ul>
 <!-- --><p>总结来说，从页面加载速度来说，hexo &gt; vitepress &gt; docusaurus。从开发环境的速来来说：ejs &gt; vite &gt; webpack。</p>
 <!-- --><p>但是，这些框架页面的加载速度来说，其实也就是200ms以内的差异，如果使用http cache、gzip等优化手段，这些框架的渲染速度差异几乎可以忽略不计。</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="5扩展性">5、扩展性<!-- --><a href="https://blog.chdl.fun/ChBlog/en/blog/2024/03/05/how-to-select-ssg-frame#5%E6%89%A9%E5%B1%95%E6%80%A7" class="hash-link" aria-label="Direct link to 5、扩展性" title="Direct link to 5、扩展性">​</a></h2>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="5扩展性">5、扩展性<!-- --><a href="https://blog.chdl.fun/ChBlog/en/blog/how-to-select-ssg-frame#5%E6%89%A9%E5%B1%95%E6%80%A7" class="hash-link" aria-label="Direct link to 5、扩展性" title="Direct link to 5、扩展性">​</a></h2>
 <!-- --><ul>
 <!-- --><li>hexo，由于底层使用了ejs模板引擎，因此想要更加方便的扩展，其实相对来说不是一件容易的事情。然而如果你能选择hexo，我相信你其实也不需要什么额外的扩展。</li>
 <!-- --><li>vitepress，底层使用了vue，因此支持你完全使用vue的语法去定制你想要的任何样式。</li>
 <!-- --><li>docusaurus, 底层使用了react，因此同样支持你完全使用react的语法去定制你想要的任何样式。</li>
 <!-- --></ul>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="总结">总结<!-- --><a href="https://blog.chdl.fun/ChBlog/en/blog/2024/03/05/how-to-select-ssg-frame#%E6%80%BB%E7%BB%93" class="hash-link" aria-label="Direct link to 总结" title="Direct link to 总结">​</a></h2>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="总结">总结<!-- --><a href="https://blog.chdl.fun/ChBlog/en/blog/how-to-select-ssg-frame#%E6%80%BB%E7%BB%93" class="hash-link" aria-label="Direct link to 总结" title="Direct link to 总结">​</a></h2>
 <!-- --><p>综上所述，根据不同的使用场景和需求，可以选择适合的工具。</p>
 <!-- --><p>如果你是一个<!-- --><strong>非前端开发者</strong>，那么我建议hexo，你完全可以使用hexo提供丰富的社区模板构建你想要的页面。<!-- --></p>
 <!-- --><p>如果你是前端程序员，并且技术栈以vue为主，可以尝试vitepress，但是vitepress不支持博客，当然你完全可以定制化主题，但是不妨可以先看看hexo是否有满足你需求的博客主题模板。</p>
 <!-- --><p>如果你是前端程序员，并且技术栈以react为主，可以使用docusaurus，它同时支持博客和文档，同样支持定制化主题。</p>
 <!-- --><p>最后献上我的个人博客网站：<!-- --><a href="https://blog.chdl.fun/" target="_blank" rel="noopener noreferrer">https://blog.chdl.fun</a> , 我的博客是采用了docusaurus进行构建，欢迎读者老爷前来围观。<!-- --></p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="参考">参考：<!-- --><a href="https://blog.chdl.fun/ChBlog/en/blog/2024/03/05/how-to-select-ssg-frame#%E5%8F%82%E8%80%83" class="hash-link" aria-label="Direct link to 参考：" title="Direct link to 参考：">​</a></h2>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="参考">参考：<!-- --><a href="https://blog.chdl.fun/ChBlog/en/blog/how-to-select-ssg-frame#%E5%8F%82%E8%80%83" class="hash-link" aria-label="Direct link to 参考：" title="Direct link to 参考：">​</a></h2>
 <!-- --><ul>
 <!-- --><li>hexo官方网站： <!-- --><a href="https://hexo.io/" target="_blank" rel="noopener noreferrer">https://hexo.io</a></li>
 <!-- --><li>vitepress官方网站：<!-- --><a href="https://vitepress.dev/" target="_blank" rel="noopener noreferrer">https://vitepress.dev</a></li>
