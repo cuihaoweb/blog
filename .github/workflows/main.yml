@@ -39,11 +39,3 @@ jobs:
         with:
           folder: .
           branch: rb
-
-      - name: Mirror to Gitee
-        uses: wearerequired/git-mirror-action@v1
-        env:
-          SSH_PRIVATE_KEY: ${{ secrets.GITEE_DEPLOY_KEY }}
-        with:
-          source-repo: "git@github.com:cuihaoweb/blog.git"
-          destination-repo: "git@gitee.com:cui_hao/blog.git"
