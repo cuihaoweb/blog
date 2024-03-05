@@ -65,6 +65,7 @@ const config: Config = {
         image: 'img/docusaurus-social-card.jpg',
         metadata: [
             {name: 'keywords', content: 'ch,blog'},
+            {name: 'description', content: 'the blog of ch, it has some articles about web, welcome to visit'},
             {name: 'google-site-verification', content: 'fs5EybByxqvIchWyU4mIpxHS8HJrFYX8flIiBwdT6ps'}
         ],
         colorMode: {
