@@ -29,6 +29,23 @@ const config: Config = {
         }
     },
 
+    headTags: [
+        // 百度统计
+        {
+            tagName: 'script',
+            attributes: {type: 'text/javascript'},
+            innerHTML: `
+                var _hmt = _hmt || [];
+                (function() {
+                    var hm = document.createElement("script");
+                    hm.src = "https://hm.baidu.com/hm.js?9f42b9e0421867461c737dfa74f0e34d";
+                    var s = document.getElementsByTagName("script")[0]; 
+                    s.parentNode.insertBefore(hm, s);
+                })();
+            `
+        }
+    ],
+
     presets: [
         [
             'classic',
