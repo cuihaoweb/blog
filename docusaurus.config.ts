@@ -102,7 +102,7 @@ const config: Config = {
                     position: 'right',
                     items: [
                         {
-                            to: '/docs/category/nextjs', label: 'NextJs教程'
+                            to: '/docs/category/nextjs', label: 'NextJs全栈指南',
                         }
                     ]
                 },
