@@ -83,7 +83,8 @@ const config: Config = {
         metadata: [
             {name: 'keywords', content: 'ch,blog'},
             {name: 'description', content: 'the blog of ch, it has some articles about web, welcome to visit'},
-            {name: 'google-site-verification', content: 'fs5EybByxqvIchWyU4mIpxHS8HJrFYX8flIiBwdT6ps'}
+            {name: 'google-site-verification', content: 'fs5EybByxqvIchWyU4mIpxHS8HJrFYX8flIiBwdT6ps'},
+            {name: 'baidu-site-verification', content: 'codeva-8tsunVRxb2'}
         ],
         colorMode: {
             defaultMode: 'dark'
