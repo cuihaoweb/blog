@@ -2,131 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.chdl.fun/ChBlog/blog</id>
     <title>ChBlog Blog</title>
-    <updated>2024-03-04T00:00:00.000Z</updated>
+    <updated>2024-03-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.chdl.fun/ChBlog/blog"/>
     <subtitle>ChBlog Blog</subtitle>
     <icon>https://blog.chdl.fun/ChBlog/img/logo.ico</icon>
     <entry>
-        <title type="html"><![CDATA[React 还是 Vue，哪个 JS 框架最好？]]></title>
-        <id>https://blog.chdl.fun/ChBlog/blog/react-or-vue</id>
-        <link href="https://blog.chdl.fun/ChBlog/blog/react-or-vue"/>
-        <updated>2024-03-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[React 是用于构建单页应用程序的最流行的 JavaScript 库。另一方面，Vue.js声称是框架。它们比 Angular 有更多的共同点，Angular 是一个“真正的”框架。🚩]]></summary>
-        <content type="html"><![CDATA[<p>React 是用于构建单页应用程序的最流行的 JavaScript 库。另一方面，Vue.js声称是框架。它们比 Angular 有更多的共同点，Angular 是一个“真正的”框架。🚩</p>
-<!-- --><p>在本文中，我将对 React.js 和 Vue.js 进行详细比较，以便您决定哪种 JS 框架/库最适合您。🚧</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="️框架概述">⚖️框架概述<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/react-or-vue#%EF%B8%8F%E6%A1%86%E6%9E%B6%E6%A6%82%E8%BF%B0" class="hash-link" aria-label="⚖️框架概述的直接链接" title="⚖️框架概述的直接链接">​</a></h2>
-<!-- --><p>React 由 Facebook 的软件工程师 Jordan Walke 创建。目前，它由 Meta（前身为 Facebook）以及一个由个人开发者和公司组成的社区维护。</p>
-<!-- --><p>其丰富的生态系统和灵活性使其成为构建复杂用户界面和处理数据处理任务的完美选择。</p>
-<!-- --><p>此外，React Native 是 React.js 的扩展，使开发人员能够轻松创建混合移动应用程序。</p>
-<!-- --><hr>
-<!-- --><p>Vue 是一个相对较新的进入者，由 Evan You 创建，Vue 专注于 UI 设计和开发的简单性和效率。</p>
-<!-- --><p>🧹🫧其直观的语法和清晰的设计原则使其对寻求用于构建界面的简单框架的开发人员具有吸引力。</p>
-<!-- --><p>Vue.js 还通过 Pinia 提供&nbsp;<!-- --><code>built-in</code>&nbsp;动画和状态管理等功能，以满足广泛的开发需求。<!-- --></p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="-使用vuejs的原因">🍏 使用Vue.js的原因<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/react-or-vue#-%E4%BD%BF%E7%94%A8vuejs%E7%9A%84%E5%8E%9F%E5%9B%A0" class="hash-link" aria-label="🍏 使用Vue.js的原因的直接链接" title="🍏 使用Vue.js的原因的直接链接">​</a></h2>
-<!-- --><p>Vue.js因其简单性而受到关注。开发人员欣赏其清晰而合乎逻辑的设计，它加快了开发过程和工作流程。</p>
-<!-- --><p>与其他一些框架不同，Vue.js在整个 UI 功能中保持一致的语法。</p>
-<!-- --><p>Vue.js的优势之一在于其高效的官方插件，这些插件为常见任务提供解决方案，例如&nbsp;<!-- --><code>Vue-Router</code>&nbsp;.<!-- --></p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="️-使用-react-的原因">⚛️ 使用 React 的原因<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/react-or-vue#%EF%B8%8F-%E4%BD%BF%E7%94%A8-react-%E7%9A%84%E5%8E%9F%E5%9B%A0" class="hash-link" aria-label="⚛️ 使用 React 的原因的直接链接" title="⚛️ 使用 React 的原因的直接链接">​</a></h2>
-<!-- --><p>React.js具有一些独特的功能，使其成为开发人员的热门选择。</p>
-<!-- --><p><strong>JSX 语法简化了自定义组件的创建。📂</strong></p>
-<!-- --><p>JSX 代表 JavaScript XML。JSX 允许我们在 React 中编写 HTML。JSX 使在 React 中编写和添加 HTML 变得更加容易。</p>
-<!-- --><p>它只是一个类似 XML 的扩展，允许我们编写看起来像标记的 JavaScript，并从组件返回它。</p>
-<!-- --><p>此外，React.js 为搜索引擎优化 （SEO） 提供了强大的支持，确保使用 React.js 构建的 Web 应用程序易于搜索引擎发现和索引。</p>
-<!-- --><p>React.js的另一个优势是它支持通过 React Native 进行移动开发。熟悉React.js的开发人员可以提高他们的技能，使用与React.js相同的语法和开发模式来构建本机移动应用程序。</p>
-<!-- --><p>此外，React 开发人员工具在组织和调试代码方面提供了宝贵的帮助。</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="-受欢迎程度和性能的比较"><strong>🥇 受欢迎程度和性能的比较</strong><a href="https://blog.chdl.fun/ChBlog/blog/react-or-vue#-%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%A8%8B%E5%BA%A6%E5%92%8C%E6%80%A7%E8%83%BD%E7%9A%84%E6%AF%94%E8%BE%83" class="hash-link" aria-label="-受欢迎程度和性能的比较的直接链接" title="-受欢迎程度和性能的比较的直接链接">​</a></h2>
-<!-- --><p>React.js 和 Vue.js 在开发者社区中都见证了巨大的需求，但React.js目前在受欢迎程度方面略有优势。其更大的用户群和广泛的生态系统有助于其在各种项目和行业中的广泛使用。</p>
-<!-- --><p>🛰️ 在性能方面，这两个框架都提供了&nbsp;<!-- --><code>virtual DOM</code>&nbsp;HTML 页面的高效呈现。📟<!-- --></p>
-<!-- --><p><strong>此方法可确保 UI 更新快速且响应迅速。</strong></p>
-<!-- --><p>然而，Vue.js往往在组件创建和更新方面表现出色，这要归功于其简化的优化方法。</p>
-<!-- --><blockquote>
-<!-- --><p>🔎 Statista的调查报告显示，42.62%的开发者选择了React.js，而18.82%的开发者使用了Vue.js。用于 Web 开发</p>
-<!-- --></blockquote>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="可扩展性">🧊可扩展性<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/react-or-vue#%E5%8F%AF%E6%89%A9%E5%B1%95%E6%80%A7" class="hash-link" aria-label="🧊可扩展性的直接链接" title="🧊可扩展性的直接链接">​</a></h2>
-<!-- --><p>可伸缩性是处理大型复杂应用程序的框架的关键因素。</p>
-<!-- --><p>React.js通过 <!-- --><a href="https://coderwall.com/p/znkw-q/smart-vs-dumb-components-when-to-use-which" target="_blank" rel="noopener noreferrer">"smart" and "dumb" components</a> 的概念提供了一个可扩展的架构。<!-- --></p>
-<!-- --><p>Vue.js提供了类似的可伸缩性方法，通过 Pinia 和其他官方库支持状态管理。这使开发人员能够有效地管理状态更改，并确保在项目复杂性增加时获得最佳性能。</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="适应移动设备">📲适应移动设备<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/react-or-vue#%E9%80%82%E5%BA%94%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87" class="hash-link" aria-label="📲适应移动设备的直接链接" title="📲适应移动设备的直接链接">​</a></h2>
-<!-- --><p>React.js 和 Vue.js 都为移动开发提供解决方案，以满足对跨平台应用程序日益增长的需求。</p>
-<!-- --><p>React Native 是一个基于 React.js 的移动开发框架，允许开发人员使用熟悉的React.js模式构建原生 iOS 和 Android 应用程序。</p>
-<!-- --><hr>
-<!-- --><p>Vue.js 支持阿里巴巴集团开发的移动 UI 框架 Weex，该框架支持使用Vue.js组件创建 iOS 和 Android 应用程序。</p>
-<!-- --><p>虽然 Weex 的受欢迎程度可能不如 React Native，但它为寻求以Vue.js为中心的移动开发方法的开发人员提供了一个可行的选择。</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="规模和社区支持">🚎🔩规模和社区支持<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/react-or-vue#%E8%A7%84%E6%A8%A1%E5%92%8C%E7%A4%BE%E5%8C%BA%E6%94%AF%E6%8C%81" class="hash-link" aria-label="🚎🔩规模和社区支持的直接链接" title="🚎🔩规模和社区支持的直接链接">​</a></h2>
-<!-- --><p>框架的大小会显著影响其性能和加载时间。</p>
-<!-- --><p>与 React.js 相比，Vue.js 的默认大小更小，因此对于优先考虑优化的项目来说，这是一个有吸引力的选择。</p>
-<!-- --><p>此外，Vue.js提供了开箱即用的基本功能。例如，它减少了对额外库下载的需求。</p>
-<!-- --><p>在社区支持方面，React.js受益于Facebook和活跃的开源社区的支持。然而，由于其用户友好的设计和广泛的文档，Vue.js 在开发人员中也获得了吸引力。虽然React.js可能拥有更大的社区，但Vue.js的日益普及表明其长期成功的潜力。</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="使用案例">🏒使用案例<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/react-or-vue#%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B" class="hash-link" aria-label="🏒使用案例的直接链接" title="🏒使用案例的直接链接">​</a></h2>
-<!-- --><p>React.js 和 Vue.js 都是具有广泛用例的多功能框架。</p>
-<!-- --><p>React.js主要用于构建社交媒体平台、复杂的 Web 应用程序以及需要与 React Native 无缝集成以进行移动开发的项目。</p>
-<!-- --><p>另一方面，Vue.js非常适合中小型 Web 应用程序、实时平台和内容交付平台。其快速的性能和易于维护使其成为寻求轻量级框架以进行快速开发的开发人员的热门选择。</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="结论">👏结论<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/react-or-vue#%E7%BB%93%E8%AE%BA" class="hash-link" aria-label="👏结论的直接链接" title="👏结论的直接链接">​</a></h2>
-<!-- --><p>总之，React.js和Vue.js都为前端开发项目提供了独特的优势和优势。React.js 凭借其多功能性、强大的生态系统和对移动开发的支持而获胜。它是处理复杂应用程序的开发人员的首选。</p>
-<!-- --><p>另一方面，Vue.js以其简单、高效和快速的性能而著称。其直观的语法和高效的设计使其成为寻求开销最小的轻量级框架的开发人员的绝佳选择。</p>
-<!-- --><p>引用：<!-- --><a href="https://dev.to/codewithshahan/react-or-vue-which-js-framework-is-best-25on" target="_blank" rel="noopener noreferrer">https://dev.to/codewithshahan/react-or-vue-which-js-framework-is-best-25on</a></p>]]></content>
+        <title type="html"><![CDATA[全栈开发的必备利器 Next.js]]></title>
+        <id>https://blog.chdl.fun/ChBlog/blog/next-fullstack-intro</id>
+        <link href="https://blog.chdl.fun/ChBlog/blog/next-fullstack-intro"/>
+        <updated>2024-03-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在当今快节奏的Web开发领域，选择正确的框架对于前端和全栈程序员来说至关重要。本文将带您深入探索Next.js，这个备受推崇的框架，它不仅具有辉煌的历史背景，而且在现代Web开发中扮演着重要的角色。我们将了解Next.js的优势、适用人群以及与Nuxt.js的比较，同时探索Next.js在社区中的地位。让我们一同揭示Next.js的魅力和机遇。]]></summary>
+        <content type="html"><![CDATA[<p>在当今快节奏的Web开发领域，选择正确的框架对于前端和全栈程序员来说至关重要。本文将带您深入探索Next.js，这个备受推崇的框架，它不仅具有辉煌的历史背景，而且在现代Web开发中扮演着重要的角色。我们将了解Next.js的优势、适用人群以及与Nuxt.js的比较，同时探索Next.js在社区中的地位。让我们一同揭示Next.js的魅力和机遇。</p>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="nextjs的历史背景">Next.js的历史背景<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/next-fullstack-intro#nextjs%E7%9A%84%E5%8E%86%E5%8F%B2%E8%83%8C%E6%99%AF" class="hash-link" aria-label="Next.js的历史背景的直接链接" title="Next.js的历史背景的直接链接">​</a></h2>
+<!-- --><p>Next.js的历史源远流长, 作为一个由Vercel团队开发的React框架，Next.js在2016年的发布引起了巨大的轰动。它通过引入服务端渲染（SSR）和静态网站生成（SSG）等功能，解决了单页面应用程序（SPA）在SEO和首次加载性能方面的痛点。Next.js的出现，使得建立快速、可靠且高效的现代Web应用成为可能。</p>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="nextjs的重要程度">Next.js的重要程度<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/next-fullstack-intro#nextjs%E7%9A%84%E9%87%8D%E8%A6%81%E7%A8%8B%E5%BA%A6" class="hash-link" aria-label="Next.js的重要程度的直接链接" title="Next.js的重要程度的直接链接">​</a></h2>
+<!-- --><p>在当今互联网时代，用户对Web应用的要求越来越高。Next.js通过提供出色的性能、可扩展性和开发体验，成为现代Web开发的重要工具。它的重要性体现在以下几个方面：</p>
+<!-- --><ul>
+<!-- --><li>
+<!-- --><p>SEO友好：Next.js通过服务端渲染（SSR）的能力，确保搜索引擎能够正确定位和索引您的网站内容，从而提高SEO排名。</p>
+<!-- --></li>
+<!-- --><li>
+<!-- --><p>快速加载：Next.js的静态网站生成（SSG）功能使得页面预先生成，从而提供了快速的首次加载体验，降低了用户的等待时间。</p>
+<!-- --></li>
+<!-- --><li>
+<!-- --><p>灵活性：Next.js支持服务端渲染和客户端渲染的混合使用，使得开发者可以根据需求选择最佳方案。它还提供了热模块替换（HMR）功能，使得开发过程更加高效。</p>
+<!-- --></li>
+<!-- --><li>
+<!-- --><p>社区支持：Next.js拥有一个活跃且充满活力的社区，提供了大量的插件、工具和解决方案，助力开发者快速构建出色的Web应用。</p>
+<!-- --></li>
+<!-- --></ul>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="nextjs适合的人群">Next.js适合的人群<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/next-fullstack-intro#nextjs%E9%80%82%E5%90%88%E7%9A%84%E4%BA%BA%E7%BE%A4" class="hash-link" aria-label="Next.js适合的人群的直接链接" title="Next.js适合的人群的直接链接">​</a></h2>
+<!-- --><p>Next.js适用于广泛的开发人群，包括前端程序员和全栈程序员。无论您是有经验的React开发者还是初学者，Next.js都能为您提供许多优势：</p>
+<!-- --><p>对于前端程序员而言，Next.js提供了一种无缝的过渡方式，使得他们可以通过引入服务端渲染和静态网站生成等概念，将现有的React应用提升到一个全新的层次。</p>
+<!-- --><p>对于全栈程序员来说，Next.js的全栈能力使得全栈程序员可以在同一个框架中处理前端和后端逻辑，从而简化了开发流程，提高了工作效率。</p>
+<!-- --><p>无论您是前端程序员还是全栈程序员，Next.js都是您构建现代Web应用的理想选择。</p>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="nextjs与nuxtjs的对比">Next.js与Nuxt.js的对比<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/next-fullstack-intro#nextjs%E4%B8%8Enuxtjs%E7%9A%84%E5%AF%B9%E6%AF%94" class="hash-link" aria-label="Next.js与Nuxt.js的对比的直接链接" title="Next.js与Nuxt.js的对比的直接链接">​</a></h2>
+<!-- --><p>在讨论Next.js之前，我们不得不提到Nuxt.js，这是Vue.js生态系统中类似于Next.js的框架。虽然两者都具有类似的目标，但各自有着不同的优势和特点。</p>
+<!-- --><p>Next.js的优势：</p>
+<!-- --><ul>
+<!-- --><li>
+<!-- --><p>生态系统：Next.js拥有一个庞大且活跃的React生态系统，这意味着您可以轻松地使用React的各种库和工具。这为开发者提供了更多的选择和灵活性。</p>
+<!-- --></li>
+<!-- --><li>
+<!-- --><p>学习曲线：对于已经熟悉React的开发者来说，学习Next.js将是一个平滑的过渡。Next.js保持了React的核心概念和语法，只是添加了一些额外的功能和约定。</p>
+<!-- --></li>
+<!-- --><li>
+<!-- --><p>性能：Next.js通过服务端渲染（SSR）和静态网站生成（SSG）等技术，提供了出色的性能。它可以加快页面加载速度，并提供更好的SEO优化。</p>
+<!-- --></li>
+<!-- --></ul>
+<!-- --><p>Nuxt.js的优势：</p>
+<!-- --><ul>
+<!-- --><li>
+<!-- --><p>Vue生态系统：Nuxt.js是Vue.js的一部分，因此它与Vue的生态系统紧密集成。如果您已经熟悉Vue.js，那么选择Nuxt.js可能更符合您的需求。</p>
+<!-- --></li>
+<!-- --><li>
+<!-- --><p>自动生成路由：Nuxt.js可以根据您的项目结构自动生成路由配置，这使得管理和维护路由变得更加简单和高效。</p>
+<!-- --></li>
+<!-- --><li>
+<!-- --><p>静态文件生成：与Next.js类似，Nuxt.js也支持静态网站生成（SSG），使得页面预先生成，从而提供更快的加载速度和更好的用户体验。</p>
+<!-- --></li>
+<!-- --></ul>
+<!-- --><p>虽然Next.js和Nuxt.js有各自的优势，但选择哪个框架取决于您的需求和熟悉程度。如果您已经熟悉React和React生态系统，那么Next.js是一个不错的选择；如果您更喜欢Vue.js并且希望与Vue的生态系统无缝集成，那么Nuxt.js可能更适合您。</p>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="nextjs的社区状态">Next.js的社区状态<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/next-fullstack-intro#nextjs%E7%9A%84%E7%A4%BE%E5%8C%BA%E7%8A%B6%E6%80%81" class="hash-link" aria-label="Next.js的社区状态的直接链接" title="Next.js的社区状态的直接链接">​</a></h2>
+<!-- --><p>Next.js拥有一个庞大而活跃的社区，这对于一个开源框架来说至关重要。Next.js的社区提供了丰富的资源和支持，包括：</p>
+<!-- --><ul>
+<!-- --><li>
+<!-- --><p>插件和扩展：Next.js社区开发了许多插件和扩展，可以轻松地扩展框架的功能。无论您需要添加数据层、样式库还是其他功能，都可以在社区中找到相应的解决方案。</p>
+<!-- --></li>
+<!-- --><li>
+<!-- --><p>教程和文档：Next.js社区提供了大量的教程、文档和示例代码，帮助开发者快速入门和解决问题。您可以在社区中找到关于Next.js最佳实践、性能优化和实用技巧的宝贵资源。</p>
+<!-- --></li>
+<!-- --><li>
+<!-- --><p>活跃的开发者社区：Next.js社区非常活跃，开发者们积极分享他们的经验、洞察和解决方案。在社区中，您可以与其他开发者交流、提问和寻求帮助，共同推动Next.js的发展。</p>
+<!-- --></li>
+<!-- --></ul>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="总结">总结<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/next-fullstack-intro#%E6%80%BB%E7%BB%93" class="hash-link" aria-label="总结的直接链接" title="总结的直接链接">​</a></h2>
+<!-- --><p>Next.js作为一个备受推崇的React框架，在现代Web开发中扮演着重要的角色。它通过优秀的性能、灵活性和开发体验，吸引了众多前端程序员和全栈程序员的青睐。与Nuxt.js相比，Next.js在React生态系统的支持和学习曲线方面具备优势。同时，Next.js拥有一个活跃的社区，提供了丰富的资源和支持。</p>
+<!-- --><p>如果您想学习Next.js，可以访问我的<!-- --><a href="https://blog.chdl.fun/ChBlog/docs/category/nextjs/" target="_blank" rel="noopener noreferrer">Next.js全栈指南</a>，其中包含了一系列关于Next.js的教程和示例代码，帮助您快速掌握Next.js的开发技能。<!-- --></p>]]></content>
         <author>
             <name>cuihao</name>
             <uri>https://github.com/cuihaoweb</uri>
         </author>
         <category label="react" term="react"/>
-        <category label="vue" term="vue"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker的作用，到底解决了什么痛点?]]></title>
-        <id>https://blog.chdl.fun/ChBlog/blog/what-is-docker</id>
-        <link href="https://blog.chdl.fun/ChBlog/blog/what-is-docker"/>
-        <updated>2024-03-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本文探讨了Docker的作用和它在解决现代软件开发中的痛点方面的重要性。了解Docker如何提供轻量级、可移植和可扩展的容器化解决方案，简化了应用程序的部署、管理和跨环境移植。]]></summary>
-        <content type="html"><![CDATA[<p>本文探讨了Docker的作用和它在解决现代软件开发中的痛点方面的重要性。了解Docker如何提供轻量级、可移植和可扩展的容器化解决方案，简化了应用程序的部署、管理和跨环境移植。</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="1-移植性-一次构建到处使用">1. 移植性, 一次构建到处使用<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/what-is-docker#1-%E7%A7%BB%E6%A4%8D%E6%80%A7-%E4%B8%80%E6%AC%A1%E6%9E%84%E5%BB%BA%E5%88%B0%E5%A4%84%E4%BD%BF%E7%94%A8" class="hash-link" aria-label="1. 移植性, 一次构建到处使用的直接链接" title="1. 移植性, 一次构建到处使用的直接链接">​</a></h2>
-<!-- --><p>假如有一个服务器a运行了很多项目(node、java、php、mysql)。有一天需要使用新的服务器b。</p>
-<!-- --><p>那么服务器a上的所有运行的项目都得迁移到服务器b上，那么需要给服务器b搭建各种运行环境，工作量耗时耗力。</p>
-<!-- --><p>使用docker将所以的项目以及运行环境进行镜像构建，只需要在另一个服务器上安装一个docker，并下载对应之前构建好的镜像，就能快速搭建出对应的运行环境，并将项目运行起来。</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="2-隔离性-不同的容器之间相互独立互不干扰">2. 隔离性, 不同的容器之间相互独立，互不干扰<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/what-is-docker#2-%E9%9A%94%E7%A6%BB%E6%80%A7-%E4%B8%8D%E5%90%8C%E7%9A%84%E5%AE%B9%E5%99%A8%E4%B9%8B%E9%97%B4%E7%9B%B8%E4%BA%92%E7%8B%AC%E7%AB%8B%E4%BA%92%E4%B8%8D%E5%B9%B2%E6%89%B0" class="hash-link" aria-label="2. 隔离性, 不同的容器之间相互独立，互不干扰的直接链接" title="2. 隔离性, 不同的容器之间相互独立，互不干扰的直接链接">​</a></h2>
-<!-- --><p>Docker通过namespace实现隔离的，namespace是Linux提供的资源隔离机制，负责隔离进程。只有在同一个namespace下的进程可以相互联系，但无法感受到外部进程的存在，营造出处于一个独立的系统环境中的错觉。</p>
-<!-- --><p>因为namespace不管再怎么隔离，但是容器内部执行任务都依赖同一个cpu、内存等。为了防止容器过度占用或影响其他容器或宿主机，需要限制容器使用的 CPU 核心数量、内存大小，或者设置容器的网络带宽限制，以确保容器之间的资源使用互不干扰。因此使用了控制组（Control Groups，简称cgroups）是一个 Linux 内核特性，它可以为进程或进程组分配资源，并限制其资源使用量，确保系统的资源公平分配和高效利用。</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="3-轻量-docker是一种虚拟化容器技术">3. 轻量, docker是一种虚拟化容器技术。<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/what-is-docker#3-%E8%BD%BB%E9%87%8F-docker%E6%98%AF%E4%B8%80%E7%A7%8D%E8%99%9A%E6%8B%9F%E5%8C%96%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF" class="hash-link" aria-label="3. 轻量, docker是一种虚拟化容器技术。的直接链接" title="3. 轻量, docker是一种虚拟化容器技术。的直接链接">​</a></h2>
-<!-- --><p>他和虚拟机最根本的区别是：<!-- --><strong>docker容器和宿主机共用</strong>操作系统<!-- --><strong>内核，不会在宿主机上再次安装操作系统</strong>，更加节省资源。<!-- --></p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="4-启动快">4. 启动快<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/what-is-docker#4-%E5%90%AF%E5%8A%A8%E5%BF%AB" class="hash-link" aria-label="4. 启动快的直接链接" title="4. 启动快的直接链接">​</a></h2>
-<!-- --><p>docker采用了一种镜像分层模型，通过这种模型可以实现镜像之间的共享和重用，启动容器时无需加载整个镜像层，所以启动会更快。</p>]]></content>
-        <author>
-            <name>cuihao</name>
-            <uri>https://github.com/cuihaoweb</uri>
-        </author>
-        <category label="docker" term="docker"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[css(单行、多行)展示省略号，兼容所有浏览器]]></title>
-        <id>https://blog.chdl.fun/ChBlog/blog/ellipsis</id>
-        <link href="https://blog.chdl.fun/ChBlog/blog/ellipsis"/>
-        <updated>2024-03-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本文探讨了如何使用CSS来处理超出容器范围的内容并展示省略号, 帮助您在网页设计中实现优雅的文本截断效果。]]></summary>
-        <content type="html"><![CDATA[<p>本文探讨了如何使用CSS来处理超出容器范围的内容并展示省略号, 帮助您在网页设计中实现优雅的文本截断效果。</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="超出单行省略号">超出单行省略号<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/ellipsis#%E8%B6%85%E5%87%BA%E5%8D%95%E8%A1%8C%E7%9C%81%E7%95%A5%E5%8F%B7" class="hash-link" aria-label="超出单行省略号的直接链接" title="超出单行省略号的直接链接">​</a></h2>
-<!-- --><div class="language-CSS language-css codeBlockContainer_uIfR theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_O9eD"><pre tabindex="0" class="prism-code language-css codeBlock_K7yS thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_sPBA"><span class="token-line" style="color:#F8F8F2"><span class="token selector class" style="color:rgb(255, 121, 198)">.ellipsis</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">overflow</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> hidden</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">white-space</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> nowrap</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">text-overflow</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> ellipsis</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain"></span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><br></span></code></pre><div class="buttonGroup_XxMZ"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_Dltt" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_LKwc"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_cQnU"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="超出多行省略号">超出多行省略号<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/ellipsis#%E8%B6%85%E5%87%BA%E5%A4%9A%E8%A1%8C%E7%9C%81%E7%95%A5%E5%8F%B7" class="hash-link" aria-label="超出多行省略号的直接链接" title="超出多行省略号的直接链接">​</a></h2>
-<!-- --><b>webkit内核</b>
-<!-- --><div class="language-CSS language-css codeBlockContainer_uIfR theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_O9eD"><pre tabindex="0" class="prism-code language-css codeBlock_K7yS thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_sPBA"><span class="token-line" style="color:#F8F8F2"><span class="token selector class" style="color:rgb(255, 121, 198)">.introduction</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">display</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> -webkit-box</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">-webkit-box-orient</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> vertical</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">-webkit-line-clamp</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> </span><span class="token number">2</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">text-overflow</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> ellipsis</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">overflow</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> hidden</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain"></span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><br></span></code></pre><div class="buttonGroup_XxMZ"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_Dltt" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_LKwc"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_cQnU"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<!-- --><ul>
-<!-- --><li>注意点：<!-- -->
-<!-- --><ol>
-<!-- --><li>必须给文本的最近父容器添加上述属性，否则会在ios下失效。</li>
-<!-- --><li>如果子元素设置为display: inline时，也可生效。</li>
-<!-- --></ol>
-<!-- --></li>
-<!-- --></ul>
-<!-- --><b>非webkit内核, 兼容方式</b>
-<!-- --><div class="language-CSS language-css codeBlockContainer_uIfR theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_O9eD"><pre tabindex="0" class="prism-code language-css codeBlock_K7yS thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_sPBA"><span class="token-line" style="color:#F8F8F2"><span class="token selector class" style="color:rgb(255, 121, 198)">.introduction</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">display</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> block</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">position</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> relative</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">line-height</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> </span><span class="token number">1.4</span><span class="token unit">em</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">height</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> </span><span class="token number">2.8</span><span class="token unit">em</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">overflow</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> hidden</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain"></span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain"></span><span class="token selector class" style="color:rgb(255, 121, 198)">.introduction</span><span class="token selector pseudo-element" style="color:rgb(255, 121, 198)">::after</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">content</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"..."</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">font-weight</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> bold</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">position</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> absolute</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">bottom</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> </span><span class="token number">.3</span><span class="token unit">em</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">right</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> </span><span class="token number">0</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">width</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> </span><span class="token number">1.4</span><span class="token unit">em</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">background-color</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> </span><span class="token color">white</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain"></span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><br></span></code></pre><div class="buttonGroup_XxMZ"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_Dltt" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_LKwc"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_cQnU"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<!-- --><ul>
-<!-- --><li>添加伪元素，设置白色背景，定位到最后一行末尾。</li>
-<!-- --></ul>]]></content>
-        <author>
-            <name>cuihao</name>
-            <uri>https://github.com/cuihaoweb</uri>
-        </author>
-        <category label="css" term="css"/>
+        <category label="next.js" term="next.js"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hexo、VitePress、Docusaurus，哪个最适合你的静态网站生成器？]]></title>
@@ -209,83 +168,124 @@
         <category label="frame" term="frame"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[全栈开发的必备利器 Next.js]]></title>
-        <id>https://blog.chdl.fun/ChBlog/blog/next-fullstack-intro</id>
-        <link href="https://blog.chdl.fun/ChBlog/blog/next-fullstack-intro"/>
-        <updated>2024-03-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[在当今快节奏的Web开发领域，选择正确的框架对于前端和全栈程序员来说至关重要。本文将带您深入探索Next.js，这个备受推崇的框架，它不仅具有辉煌的历史背景，而且在现代Web开发中扮演着重要的角色。我们将了解Next.js的优势、适用人群以及与Nuxt.js的比较，同时探索Next.js在社区中的地位。让我们一同揭示Next.js的魅力和机遇。]]></summary>
-        <content type="html"><![CDATA[<p>在当今快节奏的Web开发领域，选择正确的框架对于前端和全栈程序员来说至关重要。本文将带您深入探索Next.js，这个备受推崇的框架，它不仅具有辉煌的历史背景，而且在现代Web开发中扮演着重要的角色。我们将了解Next.js的优势、适用人群以及与Nuxt.js的比较，同时探索Next.js在社区中的地位。让我们一同揭示Next.js的魅力和机遇。</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="nextjs的历史背景">Next.js的历史背景<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/next-fullstack-intro#nextjs%E7%9A%84%E5%8E%86%E5%8F%B2%E8%83%8C%E6%99%AF" class="hash-link" aria-label="Next.js的历史背景的直接链接" title="Next.js的历史背景的直接链接">​</a></h2>
-<!-- --><p>Next.js的历史源远流长, 作为一个由Vercel团队开发的React框架，Next.js在2016年的发布引起了巨大的轰动。它通过引入服务端渲染（SSR）和静态网站生成（SSG）等功能，解决了单页面应用程序（SPA）在SEO和首次加载性能方面的痛点。Next.js的出现，使得建立快速、可靠且高效的现代Web应用成为可能。</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="nextjs的重要程度">Next.js的重要程度<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/next-fullstack-intro#nextjs%E7%9A%84%E9%87%8D%E8%A6%81%E7%A8%8B%E5%BA%A6" class="hash-link" aria-label="Next.js的重要程度的直接链接" title="Next.js的重要程度的直接链接">​</a></h2>
-<!-- --><p>在当今互联网时代，用户对Web应用的要求越来越高。Next.js通过提供出色的性能、可扩展性和开发体验，成为现代Web开发的重要工具。它的重要性体现在以下几个方面：</p>
+        <title type="html"><![CDATA[css(单行、多行)展示省略号，兼容所有浏览器]]></title>
+        <id>https://blog.chdl.fun/ChBlog/blog/ellipsis</id>
+        <link href="https://blog.chdl.fun/ChBlog/blog/ellipsis"/>
+        <updated>2024-03-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文探讨了如何使用CSS来处理超出容器范围的内容并展示省略号, 帮助您在网页设计中实现优雅的文本截断效果。]]></summary>
+        <content type="html"><![CDATA[<p>本文探讨了如何使用CSS来处理超出容器范围的内容并展示省略号, 帮助您在网页设计中实现优雅的文本截断效果。</p>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="超出单行省略号">超出单行省略号<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/ellipsis#%E8%B6%85%E5%87%BA%E5%8D%95%E8%A1%8C%E7%9C%81%E7%95%A5%E5%8F%B7" class="hash-link" aria-label="超出单行省略号的直接链接" title="超出单行省略号的直接链接">​</a></h2>
+<!-- --><div class="language-CSS language-css codeBlockContainer_uIfR theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_O9eD"><pre tabindex="0" class="prism-code language-css codeBlock_K7yS thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_sPBA"><span class="token-line" style="color:#F8F8F2"><span class="token selector class" style="color:rgb(255, 121, 198)">.ellipsis</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">overflow</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> hidden</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">white-space</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> nowrap</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">text-overflow</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> ellipsis</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain"></span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><br></span></code></pre><div class="buttonGroup_XxMZ"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_Dltt" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_LKwc"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_cQnU"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="超出多行省略号">超出多行省略号<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/ellipsis#%E8%B6%85%E5%87%BA%E5%A4%9A%E8%A1%8C%E7%9C%81%E7%95%A5%E5%8F%B7" class="hash-link" aria-label="超出多行省略号的直接链接" title="超出多行省略号的直接链接">​</a></h2>
+<!-- --><b>webkit内核</b>
+<!-- --><div class="language-CSS language-css codeBlockContainer_uIfR theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_O9eD"><pre tabindex="0" class="prism-code language-css codeBlock_K7yS thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_sPBA"><span class="token-line" style="color:#F8F8F2"><span class="token selector class" style="color:rgb(255, 121, 198)">.introduction</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">display</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> -webkit-box</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">-webkit-box-orient</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> vertical</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">-webkit-line-clamp</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> </span><span class="token number">2</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">text-overflow</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> ellipsis</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">overflow</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> hidden</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain"></span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><br></span></code></pre><div class="buttonGroup_XxMZ"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_Dltt" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_LKwc"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_cQnU"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <!-- --><ul>
-<!-- --><li>
-<!-- --><p>SEO友好：Next.js通过服务端渲染（SSR）的能力，确保搜索引擎能够正确定位和索引您的网站内容，从而提高SEO排名。</p>
-<!-- --></li>
-<!-- --><li>
-<!-- --><p>快速加载：Next.js的静态网站生成（SSG）功能使得页面预先生成，从而提供了快速的首次加载体验，降低了用户的等待时间。</p>
-<!-- --></li>
-<!-- --><li>
-<!-- --><p>灵活性：Next.js支持服务端渲染和客户端渲染的混合使用，使得开发者可以根据需求选择最佳方案。它还提供了热模块替换（HMR）功能，使得开发过程更加高效。</p>
-<!-- --></li>
-<!-- --><li>
-<!-- --><p>社区支持：Next.js拥有一个活跃且充满活力的社区，提供了大量的插件、工具和解决方案，助力开发者快速构建出色的Web应用。</p>
+<!-- --><li>注意点：<!-- -->
+<!-- --><ol>
+<!-- --><li>必须给文本的最近父容器添加上述属性，否则会在ios下失效。</li>
+<!-- --><li>如果子元素设置为display: inline时，也可生效。</li>
+<!-- --></ol>
 <!-- --></li>
 <!-- --></ul>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="nextjs适合的人群">Next.js适合的人群<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/next-fullstack-intro#nextjs%E9%80%82%E5%90%88%E7%9A%84%E4%BA%BA%E7%BE%A4" class="hash-link" aria-label="Next.js适合的人群的直接链接" title="Next.js适合的人群的直接链接">​</a></h2>
-<!-- --><p>Next.js适用于广泛的开发人群，包括前端程序员和全栈程序员。无论您是有经验的React开发者还是初学者，Next.js都能为您提供许多优势：</p>
-<!-- --><p>对于前端程序员而言，Next.js提供了一种无缝的过渡方式，使得他们可以通过引入服务端渲染和静态网站生成等概念，将现有的React应用提升到一个全新的层次。</p>
-<!-- --><p>对于全栈程序员来说，Next.js的全栈能力使得全栈程序员可以在同一个框架中处理前端和后端逻辑，从而简化了开发流程，提高了工作效率。</p>
-<!-- --><p>无论您是前端程序员还是全栈程序员，Next.js都是您构建现代Web应用的理想选择。</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="nextjs与nuxtjs的对比">Next.js与Nuxt.js的对比<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/next-fullstack-intro#nextjs%E4%B8%8Enuxtjs%E7%9A%84%E5%AF%B9%E6%AF%94" class="hash-link" aria-label="Next.js与Nuxt.js的对比的直接链接" title="Next.js与Nuxt.js的对比的直接链接">​</a></h2>
-<!-- --><p>在讨论Next.js之前，我们不得不提到Nuxt.js，这是Vue.js生态系统中类似于Next.js的框架。虽然两者都具有类似的目标，但各自有着不同的优势和特点。</p>
-<!-- --><p>Next.js的优势：</p>
+<!-- --><b>非webkit内核, 兼容方式</b>
+<!-- --><div class="language-CSS language-css codeBlockContainer_uIfR theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_O9eD"><pre tabindex="0" class="prism-code language-css codeBlock_K7yS thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_sPBA"><span class="token-line" style="color:#F8F8F2"><span class="token selector class" style="color:rgb(255, 121, 198)">.introduction</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">display</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> block</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">position</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> relative</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">line-height</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> </span><span class="token number">1.4</span><span class="token unit">em</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">height</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> </span><span class="token number">2.8</span><span class="token unit">em</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">overflow</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> hidden</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain"></span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain"></span><span class="token selector class" style="color:rgb(255, 121, 198)">.introduction</span><span class="token selector pseudo-element" style="color:rgb(255, 121, 198)">::after</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">content</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"..."</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">font-weight</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> bold</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">position</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> absolute</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">bottom</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> </span><span class="token number">.3</span><span class="token unit">em</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">right</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> </span><span class="token number">0</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">width</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> </span><span class="token number">1.4</span><span class="token unit">em</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token property">background-color</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> </span><span class="token color">white</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain"></span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><br></span></code></pre><div class="buttonGroup_XxMZ"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_Dltt" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_LKwc"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_cQnU"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <!-- --><ul>
-<!-- --><li>
-<!-- --><p>生态系统：Next.js拥有一个庞大且活跃的React生态系统，这意味着您可以轻松地使用React的各种库和工具。这为开发者提供了更多的选择和灵活性。</p>
-<!-- --></li>
-<!-- --><li>
-<!-- --><p>学习曲线：对于已经熟悉React的开发者来说，学习Next.js将是一个平滑的过渡。Next.js保持了React的核心概念和语法，只是添加了一些额外的功能和约定。</p>
-<!-- --></li>
-<!-- --><li>
-<!-- --><p>性能：Next.js通过服务端渲染（SSR）和静态网站生成（SSG）等技术，提供了出色的性能。它可以加快页面加载速度，并提供更好的SEO优化。</p>
-<!-- --></li>
-<!-- --></ul>
-<!-- --><p>Nuxt.js的优势：</p>
-<!-- --><ul>
-<!-- --><li>
-<!-- --><p>Vue生态系统：Nuxt.js是Vue.js的一部分，因此它与Vue的生态系统紧密集成。如果您已经熟悉Vue.js，那么选择Nuxt.js可能更符合您的需求。</p>
-<!-- --></li>
-<!-- --><li>
-<!-- --><p>自动生成路由：Nuxt.js可以根据您的项目结构自动生成路由配置，这使得管理和维护路由变得更加简单和高效。</p>
-<!-- --></li>
-<!-- --><li>
-<!-- --><p>静态文件生成：与Next.js类似，Nuxt.js也支持静态网站生成（SSG），使得页面预先生成，从而提供更快的加载速度和更好的用户体验。</p>
-<!-- --></li>
-<!-- --></ul>
-<!-- --><p>虽然Next.js和Nuxt.js有各自的优势，但选择哪个框架取决于您的需求和熟悉程度。如果您已经熟悉React和React生态系统，那么Next.js是一个不错的选择；如果您更喜欢Vue.js并且希望与Vue的生态系统无缝集成，那么Nuxt.js可能更适合您。</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="nextjs的社区状态">Next.js的社区状态<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/next-fullstack-intro#nextjs%E7%9A%84%E7%A4%BE%E5%8C%BA%E7%8A%B6%E6%80%81" class="hash-link" aria-label="Next.js的社区状态的直接链接" title="Next.js的社区状态的直接链接">​</a></h2>
-<!-- --><p>Next.js拥有一个庞大而活跃的社区，这对于一个开源框架来说至关重要。Next.js的社区提供了丰富的资源和支持，包括：</p>
-<!-- --><ul>
-<!-- --><li>
-<!-- --><p>插件和扩展：Next.js社区开发了许多插件和扩展，可以轻松地扩展框架的功能。无论您需要添加数据层、样式库还是其他功能，都可以在社区中找到相应的解决方案。</p>
-<!-- --></li>
-<!-- --><li>
-<!-- --><p>教程和文档：Next.js社区提供了大量的教程、文档和示例代码，帮助开发者快速入门和解决问题。您可以在社区中找到关于Next.js最佳实践、性能优化和实用技巧的宝贵资源。</p>
-<!-- --></li>
-<!-- --><li>
-<!-- --><p>活跃的开发者社区：Next.js社区非常活跃，开发者们积极分享他们的经验、洞察和解决方案。在社区中，您可以与其他开发者交流、提问和寻求帮助，共同推动Next.js的发展。</p>
-<!-- --></li>
-<!-- --></ul>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="总结">总结<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/next-fullstack-intro#%E6%80%BB%E7%BB%93" class="hash-link" aria-label="总结的直接链接" title="总结的直接链接">​</a></h2>
-<!-- --><p>Next.js作为一个备受推崇的React框架，在现代Web开发中扮演着重要的角色。它通过优秀的性能、灵活性和开发体验，吸引了众多前端程序员和全栈程序员的青睐。与Nuxt.js相比，Next.js在React生态系统的支持和学习曲线方面具备优势。同时，Next.js拥有一个活跃的社区，提供了丰富的资源和支持。</p>
-<!-- --><p>如果您想学习Next.js，可以访问我的<!-- --><a href="https://blog.chdl.fun/ChBlog/docs/category/nextjs/" target="_blank" rel="noopener noreferrer">Next.js全栈指南</a>，其中包含了一系列关于Next.js的教程和示例代码，帮助您快速掌握Next.js的开发技能。<!-- --></p>]]></content>
+<!-- --><li>添加伪元素，设置白色背景，定位到最后一行末尾。</li>
+<!-- --></ul>]]></content>
+        <author>
+            <name>cuihao</name>
+            <uri>https://github.com/cuihaoweb</uri>
+        </author>
+        <category label="css" term="css"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker的作用，到底解决了什么痛点?]]></title>
+        <id>https://blog.chdl.fun/ChBlog/blog/what-is-docker</id>
+        <link href="https://blog.chdl.fun/ChBlog/blog/what-is-docker"/>
+        <updated>2024-03-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文探讨了Docker的作用和它在解决现代软件开发中的痛点方面的重要性。了解Docker如何提供轻量级、可移植和可扩展的容器化解决方案，简化了应用程序的部署、管理和跨环境移植。]]></summary>
+        <content type="html"><![CDATA[<p>本文探讨了Docker的作用和它在解决现代软件开发中的痛点方面的重要性。了解Docker如何提供轻量级、可移植和可扩展的容器化解决方案，简化了应用程序的部署、管理和跨环境移植。</p>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="1-移植性-一次构建到处使用">1. 移植性, 一次构建到处使用<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/what-is-docker#1-%E7%A7%BB%E6%A4%8D%E6%80%A7-%E4%B8%80%E6%AC%A1%E6%9E%84%E5%BB%BA%E5%88%B0%E5%A4%84%E4%BD%BF%E7%94%A8" class="hash-link" aria-label="1. 移植性, 一次构建到处使用的直接链接" title="1. 移植性, 一次构建到处使用的直接链接">​</a></h2>
+<!-- --><p>假如有一个服务器a运行了很多项目(node、java、php、mysql)。有一天需要使用新的服务器b。</p>
+<!-- --><p>那么服务器a上的所有运行的项目都得迁移到服务器b上，那么需要给服务器b搭建各种运行环境，工作量耗时耗力。</p>
+<!-- --><p>使用docker将所以的项目以及运行环境进行镜像构建，只需要在另一个服务器上安装一个docker，并下载对应之前构建好的镜像，就能快速搭建出对应的运行环境，并将项目运行起来。</p>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="2-隔离性-不同的容器之间相互独立互不干扰">2. 隔离性, 不同的容器之间相互独立，互不干扰<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/what-is-docker#2-%E9%9A%94%E7%A6%BB%E6%80%A7-%E4%B8%8D%E5%90%8C%E7%9A%84%E5%AE%B9%E5%99%A8%E4%B9%8B%E9%97%B4%E7%9B%B8%E4%BA%92%E7%8B%AC%E7%AB%8B%E4%BA%92%E4%B8%8D%E5%B9%B2%E6%89%B0" class="hash-link" aria-label="2. 隔离性, 不同的容器之间相互独立，互不干扰的直接链接" title="2. 隔离性, 不同的容器之间相互独立，互不干扰的直接链接">​</a></h2>
+<!-- --><p>Docker通过namespace实现隔离的，namespace是Linux提供的资源隔离机制，负责隔离进程。只有在同一个namespace下的进程可以相互联系，但无法感受到外部进程的存在，营造出处于一个独立的系统环境中的错觉。</p>
+<!-- --><p>因为namespace不管再怎么隔离，但是容器内部执行任务都依赖同一个cpu、内存等。为了防止容器过度占用或影响其他容器或宿主机，需要限制容器使用的 CPU 核心数量、内存大小，或者设置容器的网络带宽限制，以确保容器之间的资源使用互不干扰。因此使用了控制组（Control Groups，简称cgroups）是一个 Linux 内核特性，它可以为进程或进程组分配资源，并限制其资源使用量，确保系统的资源公平分配和高效利用。</p>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="3-轻量-docker是一种虚拟化容器技术">3. 轻量, docker是一种虚拟化容器技术。<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/what-is-docker#3-%E8%BD%BB%E9%87%8F-docker%E6%98%AF%E4%B8%80%E7%A7%8D%E8%99%9A%E6%8B%9F%E5%8C%96%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF" class="hash-link" aria-label="3. 轻量, docker是一种虚拟化容器技术。的直接链接" title="3. 轻量, docker是一种虚拟化容器技术。的直接链接">​</a></h2>
+<!-- --><p>他和虚拟机最根本的区别是：<!-- --><strong>docker容器和宿主机共用</strong>操作系统<!-- --><strong>内核，不会在宿主机上再次安装操作系统</strong>，更加节省资源。<!-- --></p>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="4-启动快">4. 启动快<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/what-is-docker#4-%E5%90%AF%E5%8A%A8%E5%BF%AB" class="hash-link" aria-label="4. 启动快的直接链接" title="4. 启动快的直接链接">​</a></h2>
+<!-- --><p>docker采用了一种镜像分层模型，通过这种模型可以实现镜像之间的共享和重用，启动容器时无需加载整个镜像层，所以启动会更快。</p>]]></content>
+        <author>
+            <name>cuihao</name>
+            <uri>https://github.com/cuihaoweb</uri>
+        </author>
+        <category label="docker" term="docker"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React 还是 Vue，哪个 JS 框架最好？]]></title>
+        <id>https://blog.chdl.fun/ChBlog/blog/react-or-vue</id>
+        <link href="https://blog.chdl.fun/ChBlog/blog/react-or-vue"/>
+        <updated>2024-03-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[React 是用于构建单页应用程序的最流行的 JavaScript 库。另一方面，Vue.js声称是框架。它们比 Angular 有更多的共同点，Angular 是一个“真正的”框架。🚩]]></summary>
+        <content type="html"><![CDATA[<p>React 是用于构建单页应用程序的最流行的 JavaScript 库。另一方面，Vue.js声称是框架。它们比 Angular 有更多的共同点，Angular 是一个“真正的”框架。🚩</p>
+<!-- --><p>在本文中，我将对 React.js 和 Vue.js 进行详细比较，以便您决定哪种 JS 框架/库最适合您。🚧</p>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="️框架概述">⚖️框架概述<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/react-or-vue#%EF%B8%8F%E6%A1%86%E6%9E%B6%E6%A6%82%E8%BF%B0" class="hash-link" aria-label="⚖️框架概述的直接链接" title="⚖️框架概述的直接链接">​</a></h2>
+<!-- --><p>React 由 Facebook 的软件工程师 Jordan Walke 创建。目前，它由 Meta（前身为 Facebook）以及一个由个人开发者和公司组成的社区维护。</p>
+<!-- --><p>其丰富的生态系统和灵活性使其成为构建复杂用户界面和处理数据处理任务的完美选择。</p>
+<!-- --><p>此外，React Native 是 React.js 的扩展，使开发人员能够轻松创建混合移动应用程序。</p>
+<!-- --><hr>
+<!-- --><p>Vue 是一个相对较新的进入者，由 Evan You 创建，Vue 专注于 UI 设计和开发的简单性和效率。</p>
+<!-- --><p>🧹🫧其直观的语法和清晰的设计原则使其对寻求用于构建界面的简单框架的开发人员具有吸引力。</p>
+<!-- --><p>Vue.js 还通过 Pinia 提供&nbsp;<!-- --><code>built-in</code>&nbsp;动画和状态管理等功能，以满足广泛的开发需求。<!-- --></p>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="-使用vuejs的原因">🍏 使用Vue.js的原因<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/react-or-vue#-%E4%BD%BF%E7%94%A8vuejs%E7%9A%84%E5%8E%9F%E5%9B%A0" class="hash-link" aria-label="🍏 使用Vue.js的原因的直接链接" title="🍏 使用Vue.js的原因的直接链接">​</a></h2>
+<!-- --><p>Vue.js因其简单性而受到关注。开发人员欣赏其清晰而合乎逻辑的设计，它加快了开发过程和工作流程。</p>
+<!-- --><p>与其他一些框架不同，Vue.js在整个 UI 功能中保持一致的语法。</p>
+<!-- --><p>Vue.js的优势之一在于其高效的官方插件，这些插件为常见任务提供解决方案，例如&nbsp;<!-- --><code>Vue-Router</code>&nbsp;.<!-- --></p>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="️-使用-react-的原因">⚛️ 使用 React 的原因<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/react-or-vue#%EF%B8%8F-%E4%BD%BF%E7%94%A8-react-%E7%9A%84%E5%8E%9F%E5%9B%A0" class="hash-link" aria-label="⚛️ 使用 React 的原因的直接链接" title="⚛️ 使用 React 的原因的直接链接">​</a></h2>
+<!-- --><p>React.js具有一些独特的功能，使其成为开发人员的热门选择。</p>
+<!-- --><p><strong>JSX 语法简化了自定义组件的创建。📂</strong></p>
+<!-- --><p>JSX 代表 JavaScript XML。JSX 允许我们在 React 中编写 HTML。JSX 使在 React 中编写和添加 HTML 变得更加容易。</p>
+<!-- --><p>它只是一个类似 XML 的扩展，允许我们编写看起来像标记的 JavaScript，并从组件返回它。</p>
+<!-- --><p>此外，React.js 为搜索引擎优化 （SEO） 提供了强大的支持，确保使用 React.js 构建的 Web 应用程序易于搜索引擎发现和索引。</p>
+<!-- --><p>React.js的另一个优势是它支持通过 React Native 进行移动开发。熟悉React.js的开发人员可以提高他们的技能，使用与React.js相同的语法和开发模式来构建本机移动应用程序。</p>
+<!-- --><p>此外，React 开发人员工具在组织和调试代码方面提供了宝贵的帮助。</p>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="-受欢迎程度和性能的比较"><strong>🥇 受欢迎程度和性能的比较</strong><a href="https://blog.chdl.fun/ChBlog/blog/react-or-vue#-%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%A8%8B%E5%BA%A6%E5%92%8C%E6%80%A7%E8%83%BD%E7%9A%84%E6%AF%94%E8%BE%83" class="hash-link" aria-label="-受欢迎程度和性能的比较的直接链接" title="-受欢迎程度和性能的比较的直接链接">​</a></h2>
+<!-- --><p>React.js 和 Vue.js 在开发者社区中都见证了巨大的需求，但React.js目前在受欢迎程度方面略有优势。其更大的用户群和广泛的生态系统有助于其在各种项目和行业中的广泛使用。</p>
+<!-- --><p>🛰️ 在性能方面，这两个框架都提供了&nbsp;<!-- --><code>virtual DOM</code>&nbsp;HTML 页面的高效呈现。📟<!-- --></p>
+<!-- --><p><strong>此方法可确保 UI 更新快速且响应迅速。</strong></p>
+<!-- --><p>然而，Vue.js往往在组件创建和更新方面表现出色，这要归功于其简化的优化方法。</p>
+<!-- --><blockquote>
+<!-- --><p>🔎 Statista的调查报告显示，42.62%的开发者选择了React.js，而18.82%的开发者使用了Vue.js。用于 Web 开发</p>
+<!-- --></blockquote>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="可扩展性">🧊可扩展性<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/react-or-vue#%E5%8F%AF%E6%89%A9%E5%B1%95%E6%80%A7" class="hash-link" aria-label="🧊可扩展性的直接链接" title="🧊可扩展性的直接链接">​</a></h2>
+<!-- --><p>可伸缩性是处理大型复杂应用程序的框架的关键因素。</p>
+<!-- --><p>React.js通过 <!-- --><a href="https://coderwall.com/p/znkw-q/smart-vs-dumb-components-when-to-use-which" target="_blank" rel="noopener noreferrer">"smart" and "dumb" components</a> 的概念提供了一个可扩展的架构。<!-- --></p>
+<!-- --><p>Vue.js提供了类似的可伸缩性方法，通过 Pinia 和其他官方库支持状态管理。这使开发人员能够有效地管理状态更改，并确保在项目复杂性增加时获得最佳性能。</p>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="适应移动设备">📲适应移动设备<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/react-or-vue#%E9%80%82%E5%BA%94%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87" class="hash-link" aria-label="📲适应移动设备的直接链接" title="📲适应移动设备的直接链接">​</a></h2>
+<!-- --><p>React.js 和 Vue.js 都为移动开发提供解决方案，以满足对跨平台应用程序日益增长的需求。</p>
+<!-- --><p>React Native 是一个基于 React.js 的移动开发框架，允许开发人员使用熟悉的React.js模式构建原生 iOS 和 Android 应用程序。</p>
+<!-- --><hr>
+<!-- --><p>Vue.js 支持阿里巴巴集团开发的移动 UI 框架 Weex，该框架支持使用Vue.js组件创建 iOS 和 Android 应用程序。</p>
+<!-- --><p>虽然 Weex 的受欢迎程度可能不如 React Native，但它为寻求以Vue.js为中心的移动开发方法的开发人员提供了一个可行的选择。</p>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="规模和社区支持">🚎🔩规模和社区支持<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/react-or-vue#%E8%A7%84%E6%A8%A1%E5%92%8C%E7%A4%BE%E5%8C%BA%E6%94%AF%E6%8C%81" class="hash-link" aria-label="🚎🔩规模和社区支持的直接链接" title="🚎🔩规模和社区支持的直接链接">​</a></h2>
+<!-- --><p>框架的大小会显著影响其性能和加载时间。</p>
+<!-- --><p>与 React.js 相比，Vue.js 的默认大小更小，因此对于优先考虑优化的项目来说，这是一个有吸引力的选择。</p>
+<!-- --><p>此外，Vue.js提供了开箱即用的基本功能。例如，它减少了对额外库下载的需求。</p>
+<!-- --><p>在社区支持方面，React.js受益于Facebook和活跃的开源社区的支持。然而，由于其用户友好的设计和广泛的文档，Vue.js 在开发人员中也获得了吸引力。虽然React.js可能拥有更大的社区，但Vue.js的日益普及表明其长期成功的潜力。</p>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="使用案例">🏒使用案例<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/react-or-vue#%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B" class="hash-link" aria-label="🏒使用案例的直接链接" title="🏒使用案例的直接链接">​</a></h2>
+<!-- --><p>React.js 和 Vue.js 都是具有广泛用例的多功能框架。</p>
+<!-- --><p>React.js主要用于构建社交媒体平台、复杂的 Web 应用程序以及需要与 React Native 无缝集成以进行移动开发的项目。</p>
+<!-- --><p>另一方面，Vue.js非常适合中小型 Web 应用程序、实时平台和内容交付平台。其快速的性能和易于维护使其成为寻求轻量级框架以进行快速开发的开发人员的热门选择。</p>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_CBLL" id="结论">👏结论<!-- --><a href="https://blog.chdl.fun/ChBlog/blog/react-or-vue#%E7%BB%93%E8%AE%BA" class="hash-link" aria-label="👏结论的直接链接" title="👏结论的直接链接">​</a></h2>
+<!-- --><p>总之，React.js和Vue.js都为前端开发项目提供了独特的优势和优势。React.js 凭借其多功能性、强大的生态系统和对移动开发的支持而获胜。它是处理复杂应用程序的开发人员的首选。</p>
+<!-- --><p>另一方面，Vue.js以其简单、高效和快速的性能而著称。其直观的语法和高效的设计使其成为寻求开销最小的轻量级框架的开发人员的绝佳选择。</p>
+<!-- --><p>引用：<!-- --><a href="https://dev.to/codewithshahan/react-or-vue-which-js-framework-is-best-25on" target="_blank" rel="noopener noreferrer">https://dev.to/codewithshahan/react-or-vue-which-js-framework-is-best-25on</a></p>]]></content>
         <author>
             <name>cuihao</name>
             <uri>https://github.com/cuihaoweb</uri>
         </author>
         <category label="react" term="react"/>
-        <category label="next.js" term="next.js"/>
+        <category label="vue" term="vue"/>
     </entry>
 </feed>
