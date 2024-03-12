@@ -15,4 +15,4 @@ steps:
     commands:
       - rm -rf /home/cuihao/nginx/assets/blog
       - mkdir -p /home/cuihao/nginx/assets/blog
-      - mv blog /home/cuihao/nginx/assets/blog
+      - mv blog/ /home/cuihao/nginx/assets/
