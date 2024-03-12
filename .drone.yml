@@ -13,6 +13,6 @@ trigger:
 steps:
   - name: build
     commands:
-      - rm -rf /home/cuihao/nginx/assets/blog
-      - mkdir -p /home/cuihao/nginx/assets/blog
-      - mv blog/ /home/cuihao/nginx/assets/
+      - rm -rf /home/nginx/assets/blog
+      - mkdir -p /home/nginx/assets/blog
+      - mv blog/ /home/nginx/assets/
