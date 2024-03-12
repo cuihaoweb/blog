@@ -57,7 +57,7 @@ const config: Config = {
                 },
                 blog: {
                     showReadingTime: true,
-                    sortPosts: 'ascending',
+                    sortPosts: 'descending',
                     editUrl:
                         'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
                 },
