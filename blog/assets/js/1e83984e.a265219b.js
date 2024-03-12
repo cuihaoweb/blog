@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknext_js_guides=self.webpackChunknext_js_guides||[]).push([[6348],{3884:s=>{s.exports=JSON.parse('{"label":"next.js","permalink":"/ChBlog/blog/tags/next-js","allTagsPath":"/ChBlog/blog/tags","count":1,"unlisted":false}')}}]);
