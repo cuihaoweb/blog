@@ -8,7 +8,7 @@ const config: Config = {
     favicon: 'img/logo.ico',
 
     url: 'https://blog.chdl.fun',
-    baseUrl: '/ChBlog/',
+    baseUrl: '/ChBlog',
     projectName: 'blog', // Usually your repo name.
     organizationName: 'cuihaoweb', // Usually your GitHub org/user name.
     deploymentBranch: 'rb',
