@@ -108,9 +108,11 @@ const config: Config = {
                 },
                 { to: '/blog', label: 'Blog', position: 'right' },
                 {
-                    href: 'https://qm.qq.com/cgi-bin/qm/qr?authKey=wmRMf3Lvbja6pVb9bo408uo2rYLXoZ%2F4PHryjyWxEOAQfsqF%2Bwes%2B%2B0FSKGYvxz%2B&k=3scUvuyQgGHT7CMr2QI_F9G7DUT6r6CS&noverify=0',
+                    href: 'https://qm.qq.com/cgi-bin/qm/qr?authKey=wmRMf3Lvbja6pVb9bo408uo2rYLXoZ%2F4PHryjyWxEOAQfsqF%2Bwes%2B%2B0FSKGYvxz%2B&k=3scUvuyQgGHT7CMr2QI_F9G7DUT6r6CS&noverify=0#',
                     label: 'QQ群',
                     position: 'right',
+                    hover: 'https://jmy-pic.baidu.com/0/pic/-1802197421_-403708105_-381229119.png',
+                    className: 'qq-nav-item'
                 },
                 { type: 'localeDropdown', position: 'right' }
             ],
