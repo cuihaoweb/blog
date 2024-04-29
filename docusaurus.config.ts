@@ -108,8 +108,8 @@ const config: Config = {
                 },
                 { to: '/blog', label: 'Blog', position: 'right' },
                 {
-                    href: 'https://github.com/cuihaoweb',
-                    label: 'GitHub',
+                    href: 'https://qm.qq.com/cgi-bin/qm/qr?k=HLeJNz-OUWIHYSRRttw0SoSL_AAMfYb3&jump_from=webapi&authKey=o8yw5ewB2/V3pWC0LaEEuIqqmVIzs9jPl6tvV/Yrt2+ccS41R6ljmu1NfSa1CYIB',
+                    label: 'QQ群',
                     position: 'right',
                 },
                 { type: 'localeDropdown', position: 'right' }
