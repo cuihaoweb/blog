@@ -108,7 +108,7 @@ const config: Config = {
                 },
                 { to: '/blog', label: 'Blog', position: 'right' },
                 {
-                    href: 'https://qm.qq.com/cgi-bin/qm/qr?k=HLeJNz-OUWIHYSRRttw0SoSL_AAMfYb3&jump_from=webapi&authKey=o8yw5ewB2/V3pWC0LaEEuIqqmVIzs9jPl6tvV/Yrt2+ccS41R6ljmu1NfSa1CYIB',
+                    href: 'https://qm.qq.com/cgi-bin/qm/qr?authKey=wmRMf3Lvbja6pVb9bo408uo2rYLXoZ%2F4PHryjyWxEOAQfsqF%2Bwes%2B%2B0FSKGYvxz%2B&k=3scUvuyQgGHT7CMr2QI_F9G7DUT6r6CS&noverify=0',
                     label: 'QQ群',
                     position: 'right',
                 },
