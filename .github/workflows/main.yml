@@ -18,21 +18,37 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
 
       - name: Install pnpm
         uses: pnpm/action-setup@v3
         with:
           version: 8
+          run_install: false
+
+      - name: Get pnpm store directory
+        id: pnpm-cache-dir
+        shell: bash
+        run: echo "dir=$(pnpm store path)" >> $GITHUB_OUTPUT
+
+      - name: Setup pnpm cache
+        id: pnpm-cache
+        uses: actions/cache@v4
+        with:
+          path: ${{ steps.pnpm-cache-dir.outputs.dir }}
+          key: ${{ runner.os }}-pnpm-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-
 
       - name: Install and Build
         run: |
           pnpm i --no-frozen-lockfile
           npm run build
-          shopt -s extglob
-          rm -rf .vitepress
-          rm -rf !(build)
-          mv build blog
+
+      - name: Clean node_modules
+        run: |
+          rm -rf .gitignore
+          mv script/.gitignore.template .gitignore
 
       - name: Deploy rb branch
         uses: JamesIves/github-pages-deploy-action@v4
