@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/styling/self-adaption",
+  "title": "自适应页面",
+  "description": "首先得区分自适应布局和响应式布局之间的区别。",
+  "source": "@site/docs/nextjs/04.styling/06.self-adaption.md",
+  "sourceDirName": "nextjs/04.styling",
+  "slug": "/nextjs/styling/self-adaption",
+  "permalink": "/ChBlog/en/docs/nextjs/styling/self-adaption",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/04.styling/06.self-adaption.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "主题",
+    "permalink": "/ChBlog/en/docs/nextjs/styling/theme"
+  },
+  "next": {
+    "title": "服务端组件",
+    "permalink": "/ChBlog/en/docs/nextjs/rendering/server-compnent"
+  }
+}

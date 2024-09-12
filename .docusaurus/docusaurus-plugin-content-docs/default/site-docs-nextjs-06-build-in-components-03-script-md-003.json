@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/buildIn-components/Script",
+  "title": "<Script>",
+  "description": "加载js脚本文件。",
+  "source": "@site/docs/nextjs/06.buildIn-components/03.Script.md",
+  "sourceDirName": "nextjs/06.buildIn-components",
+  "slug": "/nextjs/buildIn-components/Script",
+  "permalink": "/ChBlog/en/docs/nextjs/buildIn-components/Script",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/06.buildIn-components/03.Script.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "<Link>",
+    "permalink": "/ChBlog/en/docs/nextjs/buildIn-components/Link"
+  },
+  "next": {
+    "title": "useParams",
+    "permalink": "/ChBlog/en/docs/nextjs/client-api/useParams"
+  }
+}

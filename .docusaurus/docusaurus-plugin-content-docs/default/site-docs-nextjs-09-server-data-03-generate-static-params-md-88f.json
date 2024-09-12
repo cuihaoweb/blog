@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/server-data/generateStaticParams",
+  "title": "generateStaticParams",
+  "description": "generateStaticParams 函数在构建时会生成静态路由，而不是在请求时按需生成路由。",
+  "source": "@site/docs/nextjs/09.server-data/03.generateStaticParams.md",
+  "sourceDirName": "nextjs/09.server-data",
+  "slug": "/nextjs/server-data/generateStaticParams",
+  "permalink": "/ChBlog/en/docs/nextjs/server-data/generateStaticParams",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/09.server-data/03.generateStaticParams.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "generateSitemaps",
+    "permalink": "/ChBlog/en/docs/nextjs/server-data/generateSitemaps"
+  },
+  "next": {
+    "title": "metadata",
+    "permalink": "/ChBlog/en/docs/nextjs/seo/metadata"
+  }
+}

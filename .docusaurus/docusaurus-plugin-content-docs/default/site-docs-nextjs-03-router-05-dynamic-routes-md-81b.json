@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/router/dynamic-routes",
+  "title": "动态路由",
+  "description": "如果您事先不知道确切的区段名称，并且想要从动态数据创建路由，则可以使用在请求时填充或在构建时预呈现的动态区段。",
+  "source": "@site/docs/nextjs/03.router/05.dynamic-routes.md",
+  "sourceDirName": "nextjs/03.router",
+  "slug": "/nextjs/router/dynamic-routes",
+  "permalink": "/ChBlog/en/docs/nextjs/router/dynamic-routes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/03.router/05.dynamic-routes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "loading加载",
+    "permalink": "/ChBlog/en/docs/nextjs/router/loading"
+  },
+  "next": {
+    "title": "UI组件库的选择",
+    "permalink": "/ChBlog/en/docs/nextjs/styling/ui-component"
+  }
+}

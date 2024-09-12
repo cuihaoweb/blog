@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/client-api/lazy-load",
+  "title": "延迟加载",
+  "description": "next.js 允许你延迟加载客户端组件和导入的库，仅在需要时才会加载它们。",
+  "source": "@site/docs/nextjs/07.client-api/04.lazy-load.md",
+  "sourceDirName": "nextjs/07.client-api",
+  "slug": "/nextjs/client-api/lazy-load",
+  "permalink": "/ChBlog/en/docs/nextjs/client-api/lazy-load",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/07.client-api/04.lazy-load.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "useRouter",
+    "permalink": "/ChBlog/en/docs/nextjs/client-api/useRouter"
+  },
+  "next": {
+    "title": "fetch",
+    "permalink": "/ChBlog/en/docs/nextjs/server-api/fetch"
+  }
+}

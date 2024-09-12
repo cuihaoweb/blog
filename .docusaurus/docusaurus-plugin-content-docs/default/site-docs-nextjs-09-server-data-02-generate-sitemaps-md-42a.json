@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/server-data/generateSitemaps",
+  "title": "generateSitemaps",
+  "description": "Sitemap（网站地图）是一个XML文件，用于向搜索引擎提供有关网站上所有可访问页面的信息。",
+  "source": "@site/docs/nextjs/09.server-data/02.generateSitemaps.md",
+  "sourceDirName": "nextjs/09.server-data",
+  "slug": "/nextjs/server-data/generateSitemaps",
+  "permalink": "/ChBlog/en/docs/nextjs/server-data/generateSitemaps",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/09.server-data/02.generateSitemaps.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "generateMetadata",
+    "permalink": "/ChBlog/en/docs/nextjs/server-data/generateMetadata"
+  },
+  "next": {
+    "title": "generateStaticParams",
+    "permalink": "/ChBlog/en/docs/nextjs/server-data/generateStaticParams"
+  }
+}

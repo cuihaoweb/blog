@@ -1,0 +1,703 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "概要",
+        "href": "/ChBlog/en/docs/intro",
+        "docId": "intro",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "NextJs",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "介绍",
+            "href": "/ChBlog/en/docs/nextjs/get-start",
+            "docId": "nextjs/get-start",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "安装",
+            "href": "/ChBlog/en/docs/nextjs/install",
+            "docId": "nextjs/install",
+            "unlisted": false
+          },
+          {
+            "type": "category",
+            "label": "路由",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "介绍",
+                "href": "/ChBlog/en/docs/nextjs/router/index",
+                "docId": "nextjs/router/index",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "可复用的布局",
+                "href": "/ChBlog/en/docs/nextjs/router/layout",
+                "docId": "nextjs/router/layout",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "404页面",
+                "href": "/ChBlog/en/docs/nextjs/router/not-found",
+                "docId": "nextjs/router/not-found",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "loading加载",
+                "href": "/ChBlog/en/docs/nextjs/router/loading",
+                "docId": "nextjs/router/loading",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "动态路由",
+                "href": "/ChBlog/en/docs/nextjs/router/dynamic-routes",
+                "docId": "nextjs/router/dynamic-routes",
+                "unlisted": false
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "样式",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "UI组件库的选择",
+                "href": "/ChBlog/en/docs/nextjs/styling/ui-component",
+                "docId": "nextjs/styling/ui-component",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "css预处理器",
+                "href": "/ChBlog/en/docs/nextjs/styling/css-pretreater",
+                "docId": "nextjs/styling/css-pretreater",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Tailwind Css",
+                "href": "/ChBlog/en/docs/nextjs/styling/tailwindcss",
+                "docId": "nextjs/styling/tailwindcss",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "css module",
+                "href": "/ChBlog/en/docs/nextjs/styling/css-module",
+                "docId": "nextjs/styling/css-module",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "主题",
+                "href": "/ChBlog/en/docs/nextjs/styling/theme",
+                "docId": "nextjs/styling/theme",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "自适应页面",
+                "href": "/ChBlog/en/docs/nextjs/styling/self-adaption",
+                "docId": "nextjs/styling/self-adaption",
+                "unlisted": false
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "组件渲染",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "服务端组件",
+                "href": "/ChBlog/en/docs/nextjs/rendering/server-compnent",
+                "docId": "nextjs/rendering/server-compnent",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "客户端组件",
+                "href": "/ChBlog/en/docs/nextjs/rendering/client-component",
+                "docId": "nextjs/rendering/client-component",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "混合组件模式",
+                "href": "/ChBlog/en/docs/nextjs/rendering/composition-component",
+                "docId": "nextjs/rendering/composition-component",
+                "unlisted": false
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "内置组件",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "<Image>",
+                "href": "/ChBlog/en/docs/nextjs/buildIn-components/Image",
+                "docId": "nextjs/buildIn-components/Image",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "<Link>",
+                "href": "/ChBlog/en/docs/nextjs/buildIn-components/Link",
+                "docId": "nextjs/buildIn-components/Link",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "<Script>",
+                "href": "/ChBlog/en/docs/nextjs/buildIn-components/Script",
+                "docId": "nextjs/buildIn-components/Script",
+                "unlisted": false
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "client api",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "useParams",
+                "href": "/ChBlog/en/docs/nextjs/client-api/useParams",
+                "docId": "nextjs/client-api/useParams",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "usePathname",
+                "href": "/ChBlog/en/docs/nextjs/client-api/usePathname",
+                "docId": "nextjs/client-api/usePathname",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "useRouter",
+                "href": "/ChBlog/en/docs/nextjs/client-api/useRouter",
+                "docId": "nextjs/client-api/useRouter",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "延迟加载",
+                "href": "/ChBlog/en/docs/nextjs/client-api/lazy-load",
+                "docId": "nextjs/client-api/lazy-load",
+                "unlisted": false
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "server api",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "fetch",
+                "href": "/ChBlog/en/docs/nextjs/server-api/fetch",
+                "docId": "nextjs/server-api/fetch",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "cookies",
+                "href": "/ChBlog/en/docs/nextjs/server-api/cookies",
+                "docId": "nextjs/server-api/cookies",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "headers",
+                "href": "/ChBlog/en/docs/nextjs/server-api/headers",
+                "docId": "nextjs/server-api/headers",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "middleware",
+                "href": "/ChBlog/en/docs/nextjs/server-api/middleware",
+                "docId": "nextjs/server-api/middleware",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "RESTful-API",
+                "href": "/ChBlog/en/docs/nextjs/server-api/RESTful-API",
+                "docId": "nextjs/server-api/RESTful-API",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "NextResponse",
+                "href": "/ChBlog/en/docs/nextjs/server-api/NextResponse",
+                "docId": "nextjs/server-api/NextResponse",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "notFound",
+                "href": "/ChBlog/en/docs/nextjs/server-api/notFound",
+                "docId": "nextjs/server-api/notFound",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "redirect",
+                "href": "/ChBlog/en/docs/nextjs/server-api/redirect",
+                "docId": "nextjs/server-api/redirect",
+                "unlisted": false
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "server data",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "generateMetadata",
+                "href": "/ChBlog/en/docs/nextjs/server-data/generateMetadata",
+                "docId": "nextjs/server-data/generateMetadata",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "generateSitemaps",
+                "href": "/ChBlog/en/docs/nextjs/server-data/generateSitemaps",
+                "docId": "nextjs/server-data/generateSitemaps",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "generateStaticParams",
+                "href": "/ChBlog/en/docs/nextjs/server-data/generateStaticParams",
+                "docId": "nextjs/server-data/generateStaticParams",
+                "unlisted": false
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "seo",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "metadata",
+                "href": "/ChBlog/en/docs/nextjs/seo/metadata",
+                "docId": "nextjs/seo/metadata",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "sitemap.xml",
+                "href": "/ChBlog/en/docs/nextjs/seo/sitemap.xml",
+                "docId": "nextjs/seo/sitemap.xml",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "robots.txt",
+                "href": "/ChBlog/en/docs/nextjs/seo/robots.txt",
+                "docId": "nextjs/seo/robots.txt",
+                "unlisted": false
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "configure",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "eslint",
+                "href": "/ChBlog/en/docs/nextjs/configure/eslint",
+                "docId": "nextjs/configure/eslint",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "stylelint",
+                "href": "/ChBlog/en/docs/nextjs/configure/stylelint",
+                "docId": "nextjs/configure/stylelint",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "环境变量",
+                "href": "/ChBlog/en/docs/nextjs/configure/env",
+                "docId": "nextjs/configure/env",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "next.config.js",
+                "href": "/ChBlog/en/docs/nextjs/configure/next.configjs",
+                "docId": "nextjs/configure/next.configjs",
+                "unlisted": false
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "label": "构建",
+            "href": "/ChBlog/en/docs/nextjs/build",
+            "docId": "nextjs/build",
+            "unlisted": false
+          },
+          {
+            "type": "category",
+            "label": "部署",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "静态部署",
+                "href": "/ChBlog/en/docs/nextjs/deploy/static-deploy",
+                "docId": "nextjs/deploy/static-deploy",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "pm2部署",
+                "href": "/ChBlog/en/docs/nextjs/deploy/pm2",
+                "docId": "nextjs/deploy/pm2",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "docker部署",
+                "href": "/ChBlog/en/docs/nextjs/deploy/docker",
+                "docId": "nextjs/deploy/docker",
+                "unlisted": false
+              }
+            ]
+          }
+        ],
+        "href": "/ChBlog/en/docs/category/nextjs"
+      }
+    ]
+  },
+  "docs": {
+    "intro": {
+      "id": "intro",
+      "title": "概要",
+      "description": "在该文档中，你将学习到NextJs的入门知识，并了解如何使用NextJs构建一个博客。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/build": {
+      "id": "nextjs/build",
+      "title": "构建",
+      "description": "构建 Next.js 应用可以直接使用 npm run build 命令，构建完成后，会在根目录下生成一个 .next(该输出目录可以手动修改) 文件夹。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/buildIn-components/Image": {
+      "id": "nextjs/buildIn-components/Image",
+      "title": "<Image>",
+      "description": "- 布局稳定性：加载图像时布局不会发生偏移。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/buildIn-components/Link": {
+      "id": "nextjs/buildIn-components/Link",
+      "title": "<Link>",
+      "description": "`` 是一个 React 组件，用于路由跳转。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/buildIn-components/Script": {
+      "id": "nextjs/buildIn-components/Script",
+      "title": "<Script>",
+      "description": "加载js脚本文件。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/client-api/lazy-load": {
+      "id": "nextjs/client-api/lazy-load",
+      "title": "延迟加载",
+      "description": "next.js 允许你延迟加载客户端组件和导入的库，仅在需要时才会加载它们。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/client-api/useParams": {
+      "id": "nextjs/client-api/useParams",
+      "title": "useParams",
+      "description": "useParams 是一个客户端组件的hook，可以让你读取由当前 URL 路由的query参数。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/client-api/usePathname": {
+      "id": "nextjs/client-api/usePathname",
+      "title": "usePathname",
+      "description": "usePathname 是一个客户端组件的hook，可用于读取当前 URL 的路径。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/client-api/useRouter": {
+      "id": "nextjs/client-api/useRouter",
+      "title": "useRouter",
+      "description": "useRouter 允许你以编程方式更改客户端组件中的路由。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/configure/env": {
+      "id": "nextjs/configure/env",
+      "title": "环境变量",
+      "description": "Next.js 内置了对从 .env.local 环境变量的支持。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/configure/eslint": {
+      "id": "nextjs/configure/eslint",
+      "title": "eslint",
+      "description": "Next.js 内部集成了eslint开箱即用, 可以通过 next lint 命令来检查代码是否符合eslint规范。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/configure/next.configjs": {
+      "id": "nextjs/configure/next.configjs",
+      "title": "next.config.js",
+      "description": "Next.js可以通过项目目录根目录中的 next.config.js 文件进行项目配置。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/configure/stylelint": {
+      "id": "nextjs/configure/stylelint",
+      "title": "stylelint",
+      "description": "Stylelint是一个用于检查和强制执行CSS代码风格规范的工具。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/deploy/docker": {
+      "id": "nextjs/deploy/docker",
+      "title": "docker部署",
+      "description": "dockerfile",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/deploy/pm2": {
+      "id": "nextjs/deploy/pm2",
+      "title": "pm2部署",
+      "description": "PM2 是一个守护进程管理器，可帮助您管理和保持应用程序 24小时 在线。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/deploy/static-deploy": {
+      "id": "nextjs/deploy/static-deploy",
+      "title": "静态部署",
+      "description": "静态部署的前提是，你的网站是静态的，在代码中没有使用特定的server api，具体可以参考动态渲染,",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/get-start": {
+      "id": "nextjs/get-start",
+      "title": "介绍",
+      "description": "欢迎阅读 Next.js 文档。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/install": {
+      "id": "nextjs/install",
+      "title": "安装",
+      "description": "系统要求：",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/rendering/client-component": {
+      "id": "nextjs/rendering/client-component",
+      "title": "客户端组件",
+      "description": "客户端组件允许您在服务器上编写可交互的 UI，并可以使用浏览器api.",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/rendering/composition-component": {
+      "id": "nextjs/rendering/composition-component",
+      "title": "混合组件模式",
+      "description": "在构建 next.js 应用程序时，您需要区分代码应该编造在服务端还是客户端。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/rendering/server-compnent": {
+      "id": "nextjs/rendering/server-compnent",
+      "title": "服务端组件",
+      "description": "next.js 提供了服务端组件，它允许你在服务端渲染组件, 而不依赖与浏览器环境。服务端组件可以分为两种模式：",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/router/dynamic-routes": {
+      "id": "nextjs/router/dynamic-routes",
+      "title": "动态路由",
+      "description": "如果您事先不知道确切的区段名称，并且想要从动态数据创建路由，则可以使用在请求时填充或在构建时预呈现的动态区段。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/router/index": {
+      "id": "nextjs/router/index",
+      "title": "介绍",
+      "description": "NextJs的路由系统是NextJs的核心之一，先上一张图来感受下NextJs的路由系统。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/router/layout": {
+      "id": "nextjs/router/layout",
+      "title": "可复用的布局",
+      "description": "Next.js的layout是一个可复用的布局，不同的子页面可以共享布局容器，页面跳转时，layout容器不会重新渲染。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/router/loading": {
+      "id": "nextjs/router/loading",
+      "title": "loading加载",
+      "description": "loading.js 可以帮助你使用React Suspense创建一个组件, 当你在加载路由内容时，它会显示该加载状态组件，渲染完成后，新的内容将会自动替换。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/router/not-found": {
+      "id": "nextjs/router/not-found",
+      "title": "404页面",
+      "description": "当你访问一个未找到的路由时, 该页面将被呈现为NotFound的样式。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/seo/metadata": {
+      "id": "nextjs/seo/metadata",
+      "title": "metadata",
+      "description": "在搜索引擎优化（SEO）中，Metadata（元数据）是指在网页的代码中提供的用于描述网页内容的一些标签和属性。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/seo/robots.txt": {
+      "id": "nextjs/seo/robots.txt",
+      "title": "robots.txt",
+      "description": "Robots.txt是一个文本文件，用于告诉搜索引擎爬虫如何访问和抓取网站的内容。它位于网站的根目录下，通过指定特定的规则来控制搜索引擎爬虫的行为。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/seo/sitemap.xml": {
+      "id": "nextjs/seo/sitemap.xml",
+      "title": "sitemap.xml",
+      "description": "Sitemap（网站地图）是一个XML文件，用于向搜索引擎提供有关网站上所有可访问页面的信息。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/server-api/cookies": {
+      "id": "nextjs/server-api/cookies",
+      "title": "cookies",
+      "description": "next.js允许你通过 cookies() 函数从服务器组件读取 HTTP 传入请求 cookie，同时也支持写入 cookie。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/server-api/fetch": {
+      "id": "nextjs/server-api/fetch",
+      "title": "fetch",
+      "description": "Next.js 扩展了 Web api 的 fetch() API，允许服务器上的每个请求设置自己的持久性缓存。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/server-api/headers": {
+      "id": "nextjs/server-api/headers",
+      "title": "headers",
+      "description": "next.js允许你通过 headers() 函数从服务器组件读取 HTTP 头，同时支持操作响应头。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/server-api/middleware": {
+      "id": "nextjs/server-api/middleware",
+      "title": "middleware",
+      "description": "next.js允许你在请求完成之前，编写中间件。你可以重写、重定向、修改请求或响应标头。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/server-api/NextResponse": {
+      "id": "nextjs/server-api/NextResponse",
+      "title": "NextResponse",
+      "description": "NextResponse 扩展了 Web Response API",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/server-api/notFound": {
+      "id": "nextjs/server-api/notFound",
+      "title": "notFound",
+      "description": "调用该 notFound() 函数会引发 NEXTNOTFOUND 错误，并终止后续的路由处理。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/server-api/redirect": {
+      "id": "nextjs/server-api/redirect",
+      "title": "redirect",
+      "description": "该 redirect() 允许你将用户重定向到另一个 URL。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/server-api/RESTful-API": {
+      "id": "nextjs/server-api/RESTful-API",
+      "title": "RESTful-API",
+      "description": "RESTful API",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/server-data/generateMetadata": {
+      "id": "nextjs/server-data/generateMetadata",
+      "title": "generateMetadata",
+      "description": "Next.js允许你使用 generateMetadata 生成metadata，以提高 SEO。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/server-data/generateSitemaps": {
+      "id": "nextjs/server-data/generateSitemaps",
+      "title": "generateSitemaps",
+      "description": "Sitemap（网站地图）是一个XML文件，用于向搜索引擎提供有关网站上所有可访问页面的信息。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/server-data/generateStaticParams": {
+      "id": "nextjs/server-data/generateStaticParams",
+      "title": "generateStaticParams",
+      "description": "generateStaticParams 函数在构建时会生成静态路由，而不是在请求时按需生成路由。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/styling/css-module": {
+      "id": "nextjs/styling/css-module",
+      "title": "css module",
+      "description": "CSS模块（CSS Modules）是一种用于解决CSS命名冲突和作用域隔离问题的技术。它通过在编译阶段为CSS样式表生成唯一的类名，以确保样式的作用范围仅限于其所属的组件或模块。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/styling/css-pretreater": {
+      "id": "nextjs/styling/css-pretreater",
+      "title": "css预处理器",
+      "description": "CSS预处理器可以帮助我们编写更加可维护的CSS样式, CSS预处理器允许我们定义变量, 允许嵌套规则, 允许创建可重用的样式块.",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/styling/self-adaption": {
+      "id": "nextjs/styling/self-adaption",
+      "title": "自适应页面",
+      "description": "首先得区分自适应布局和响应式布局之间的区别。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/styling/tailwindcss": {
+      "id": "nextjs/styling/tailwindcss",
+      "title": "Tailwind Css",
+      "description": "Tailwind CSS是一个功能强大的CSS框架, 它提供了一组原子级的CSS类，用于快速构建定制化的界面。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/styling/theme": {
+      "id": "nextjs/styling/theme",
+      "title": "主题",
+      "description": "通过CSS定制化主题可以很方便的改变页面的外观和样式，以实现不同的视觉效果和用户体验。通过定制主题，可以使网站、应用或界面适应不同的设计需求、品牌标识或用户偏好。",
+      "sidebar": "tutorialSidebar"
+    },
+    "nextjs/styling/ui-component": {
+      "id": "nextjs/styling/ui-component",
+      "title": "UI组件库的选择",
+      "description": "选择适合自己项目的UI组件库是前端开发中至关重要的决策, 一个优秀的UI组件库可以提供丰富的界面元素和功能组件，帮助快速构建现代化的用户界面。",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/ChBlog/en/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/ChBlog/en/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/ChBlog/en/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/build",
+              "path": "/ChBlog/en/docs/nextjs/build",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/buildIn-components/Image",
+              "path": "/ChBlog/en/docs/nextjs/buildIn-components/Image",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/buildIn-components/Link",
+              "path": "/ChBlog/en/docs/nextjs/buildIn-components/Link",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/buildIn-components/Script",
+              "path": "/ChBlog/en/docs/nextjs/buildIn-components/Script",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/client-api/lazy-load",
+              "path": "/ChBlog/en/docs/nextjs/client-api/lazy-load",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/client-api/useParams",
+              "path": "/ChBlog/en/docs/nextjs/client-api/useParams",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/client-api/usePathname",
+              "path": "/ChBlog/en/docs/nextjs/client-api/usePathname",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/client-api/useRouter",
+              "path": "/ChBlog/en/docs/nextjs/client-api/useRouter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/configure/env",
+              "path": "/ChBlog/en/docs/nextjs/configure/env",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/configure/eslint",
+              "path": "/ChBlog/en/docs/nextjs/configure/eslint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/configure/next.configjs",
+              "path": "/ChBlog/en/docs/nextjs/configure/next.configjs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/configure/stylelint",
+              "path": "/ChBlog/en/docs/nextjs/configure/stylelint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/deploy/docker",
+              "path": "/ChBlog/en/docs/nextjs/deploy/docker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/deploy/pm2",
+              "path": "/ChBlog/en/docs/nextjs/deploy/pm2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/deploy/static-deploy",
+              "path": "/ChBlog/en/docs/nextjs/deploy/static-deploy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/get-start",
+              "path": "/ChBlog/en/docs/nextjs/get-start",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/install",
+              "path": "/ChBlog/en/docs/nextjs/install",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/rendering/client-component",
+              "path": "/ChBlog/en/docs/nextjs/rendering/client-component",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/rendering/composition-component",
+              "path": "/ChBlog/en/docs/nextjs/rendering/composition-component",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/rendering/server-compnent",
+              "path": "/ChBlog/en/docs/nextjs/rendering/server-compnent",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/router/dynamic-routes",
+              "path": "/ChBlog/en/docs/nextjs/router/dynamic-routes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/router/index",
+              "path": "/ChBlog/en/docs/nextjs/router/index",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/router/layout",
+              "path": "/ChBlog/en/docs/nextjs/router/layout",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/router/loading",
+              "path": "/ChBlog/en/docs/nextjs/router/loading",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/router/not-found",
+              "path": "/ChBlog/en/docs/nextjs/router/not-found",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/seo/metadata",
+              "path": "/ChBlog/en/docs/nextjs/seo/metadata",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/seo/robots.txt",
+              "path": "/ChBlog/en/docs/nextjs/seo/robots.txt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/seo/sitemap.xml",
+              "path": "/ChBlog/en/docs/nextjs/seo/sitemap.xml",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/server-api/cookies",
+              "path": "/ChBlog/en/docs/nextjs/server-api/cookies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/server-api/fetch",
+              "path": "/ChBlog/en/docs/nextjs/server-api/fetch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/server-api/headers",
+              "path": "/ChBlog/en/docs/nextjs/server-api/headers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/server-api/middleware",
+              "path": "/ChBlog/en/docs/nextjs/server-api/middleware",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/server-api/NextResponse",
+              "path": "/ChBlog/en/docs/nextjs/server-api/NextResponse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/server-api/notFound",
+              "path": "/ChBlog/en/docs/nextjs/server-api/notFound",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/server-api/redirect",
+              "path": "/ChBlog/en/docs/nextjs/server-api/redirect",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/server-api/RESTful-API",
+              "path": "/ChBlog/en/docs/nextjs/server-api/RESTful-API",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/server-data/generateMetadata",
+              "path": "/ChBlog/en/docs/nextjs/server-data/generateMetadata",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/server-data/generateSitemaps",
+              "path": "/ChBlog/en/docs/nextjs/server-data/generateSitemaps",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/server-data/generateStaticParams",
+              "path": "/ChBlog/en/docs/nextjs/server-data/generateStaticParams",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/styling/css-module",
+              "path": "/ChBlog/en/docs/nextjs/styling/css-module",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/styling/css-pretreater",
+              "path": "/ChBlog/en/docs/nextjs/styling/css-pretreater",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/styling/self-adaption",
+              "path": "/ChBlog/en/docs/nextjs/styling/self-adaption",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/styling/tailwindcss",
+              "path": "/ChBlog/en/docs/nextjs/styling/tailwindcss",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/styling/theme",
+              "path": "/ChBlog/en/docs/nextjs/styling/theme",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nextjs/styling/ui-component",
+              "path": "/ChBlog/en/docs/nextjs/styling/ui-component",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/nextjs",
+              "path": "/ChBlog/en/docs/category/nextjs",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/ChBlog/en/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

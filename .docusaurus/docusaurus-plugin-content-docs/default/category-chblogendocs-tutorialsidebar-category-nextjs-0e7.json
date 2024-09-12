@@ -1,0 +1,16 @@
+{
+  "title": "NextJs",
+  "description": "Next.js是一个非常受欢迎的服务器端渲染框架，可以用于构建全栈项目。它基于React, 使开发人员能够轻松构建具有服务器端渲染和客户端渲染混合的应用程序。本教程的目标是帮助读者快速掌握 Next.js 14 版本的使用, 请注意，本教程正在持续更新中。",
+  "slug": "/category/nextjs",
+  "permalink": "/ChBlog/en/docs/category/nextjs",
+  "navigation": {
+    "previous": {
+      "title": "概要",
+      "permalink": "/ChBlog/en/docs/intro"
+    },
+    "next": {
+      "title": "介绍",
+      "permalink": "/ChBlog/en/docs/nextjs/get-start"
+    }
+  }
+}

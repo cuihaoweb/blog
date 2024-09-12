@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/server-api/redirect",
+  "title": "redirect",
+  "description": "该 redirect() 允许你将用户重定向到另一个 URL。",
+  "source": "@site/docs/nextjs/08.server-api/10.redirect.md",
+  "sourceDirName": "nextjs/08.server-api",
+  "slug": "/nextjs/server-api/redirect",
+  "permalink": "/ChBlog/en/docs/nextjs/server-api/redirect",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/08.server-api/10.redirect.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "notFound",
+    "permalink": "/ChBlog/en/docs/nextjs/server-api/notFound"
+  },
+  "next": {
+    "title": "generateMetadata",
+    "permalink": "/ChBlog/en/docs/nextjs/server-data/generateMetadata"
+  }
+}

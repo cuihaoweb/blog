@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/buildIn-components/Link",
+  "title": "<Link>",
+  "description": "`` 是一个 React 组件，用于路由跳转。",
+  "source": "@site/docs/nextjs/06.buildIn-components/02.Link.md",
+  "sourceDirName": "nextjs/06.buildIn-components",
+  "slug": "/nextjs/buildIn-components/Link",
+  "permalink": "/ChBlog/en/docs/nextjs/buildIn-components/Link",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/06.buildIn-components/02.Link.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "<Image>",
+    "permalink": "/ChBlog/en/docs/nextjs/buildIn-components/Image"
+  },
+  "next": {
+    "title": "<Script>",
+    "permalink": "/ChBlog/en/docs/nextjs/buildIn-components/Script"
+  }
+}

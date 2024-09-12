@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/build",
+  "title": "构建",
+  "description": "构建 Next.js 应用可以直接使用 npm run build 命令，构建完成后，会在根目录下生成一个 .next(该输出目录可以手动修改) 文件夹。",
+  "source": "@site/docs/nextjs/12.build.md",
+  "sourceDirName": "nextjs",
+  "slug": "/nextjs/build",
+  "permalink": "/ChBlog/en/docs/nextjs/build",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/12.build.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "next.config.js",
+    "permalink": "/ChBlog/en/docs/nextjs/configure/next.configjs"
+  },
+  "next": {
+    "title": "静态部署",
+    "permalink": "/ChBlog/en/docs/nextjs/deploy/static-deploy"
+  }
+}

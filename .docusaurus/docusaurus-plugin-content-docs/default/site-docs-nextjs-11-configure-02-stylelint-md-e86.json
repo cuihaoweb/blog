@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/configure/stylelint",
+  "title": "stylelint",
+  "description": "Stylelint是一个用于检查和强制执行CSS代码风格规范的工具。",
+  "source": "@site/docs/nextjs/11.configure/02.stylelint.md",
+  "sourceDirName": "nextjs/11.configure",
+  "slug": "/nextjs/configure/stylelint",
+  "permalink": "/ChBlog/en/docs/nextjs/configure/stylelint",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/11.configure/02.stylelint.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "eslint",
+    "permalink": "/ChBlog/en/docs/nextjs/configure/eslint"
+  },
+  "next": {
+    "title": "环境变量",
+    "permalink": "/ChBlog/en/docs/nextjs/configure/env"
+  }
+}

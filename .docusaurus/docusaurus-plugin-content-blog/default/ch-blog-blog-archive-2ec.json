@@ -1,0 +1,267 @@
+{
+  "blogPosts": [
+    {
+      "id": "next-fullstack-intro",
+      "metadata": {
+        "permalink": "/ChBlog/blog/next-fullstack-intro",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/react/2024-03-12-next-fullstack-intro.md",
+        "source": "@site/blog/react/2024-03-12-next-fullstack-intro.md",
+        "title": "全栈开发的必备利器 Next.js",
+        "description": "在当今快节奏的Web开发领域，选择正确的框架对于前端和全栈程序员来说至关重要。本文将带您深入探索Next.js，这个备受推崇的框架，它不仅具有辉煌的历史背景，而且在现代Web开发中扮演着重要的角色。我们将了解Next.js的优势、适用人群以及与Nuxt.js的比较，同时探索Next.js在社区中的地位。让我们一同揭示Next.js的魅力和机遇。",
+        "date": "2024-03-12T00:00:00.000Z",
+        "formattedDate": "2024年3月12日",
+        "tags": [
+          {
+            "label": "react",
+            "permalink": "/ChBlog/blog/tags/react"
+          },
+          {
+            "label": "next.js",
+            "permalink": "/ChBlog/blog/tags/next-js"
+          }
+        ],
+        "readingTime": 7.995,
+        "hasTruncateMarker": true,
+        "authors": [
+          {
+            "name": "cuihao",
+            "title": "Maintainer of Docusaurus",
+            "url": "https://github.com/cuihaoweb",
+            "imageURL": "https://github.com/cuihaoweb.png",
+            "key": "cuihao"
+          }
+        ],
+        "frontMatter": {
+          "slug": "next-fullstack-intro",
+          "keywords": [
+            "全栈",
+            "react",
+            "next",
+            "react"
+          ],
+          "authors": "cuihao",
+          "tags": [
+            "react",
+            "next.js"
+          ]
+        },
+        "unlisted": false,
+        "nextItem": {
+          "title": "Hexo、VitePress、Docusaurus，哪个最适合你的静态网站生成器？",
+          "permalink": "/ChBlog/blog/how-to-select-ssg-frame"
+        }
+      },
+      "content": "在当今快节奏的Web开发领域，选择正确的框架对于前端和全栈程序员来说至关重要。本文将带您深入探索Next.js，这个备受推崇的框架，它不仅具有辉煌的历史背景，而且在现代Web开发中扮演着重要的角色。我们将了解Next.js的优势、适用人群以及与Nuxt.js的比较，同时探索Next.js在社区中的地位。让我们一同揭示Next.js的魅力和机遇。\n\n\n<!--truncate-->\n## Next.js的历史背景\nNext.js的历史源远流长, 作为一个由Vercel团队开发的React框架，Next.js在2016年的发布引起了巨大的轰动。它通过引入服务端渲染（SSR）和静态网站生成（SSG）等功能，解决了单页面应用程序（SPA）在SEO和首次加载性能方面的痛点。Next.js的出现，使得建立快速、可靠且高效的现代Web应用成为可能。\n\n\n## Next.js的重要程度\n在当今互联网时代，用户对Web应用的要求越来越高。Next.js通过提供出色的性能、可扩展性和开发体验，成为现代Web开发的重要工具。它的重要性体现在以下几个方面：\n\n- SEO友好：Next.js通过服务端渲染（SSR）的能力，确保搜索引擎能够正确定位和索引您的网站内容，从而提高SEO排名。\n\n- 快速加载：Next.js的静态网站生成（SSG）功能使得页面预先生成，从而提供了快速的首次加载体验，降低了用户的等待时间。\n\n- 灵活性：Next.js支持服务端渲染和客户端渲染的混合使用，使得开发者可以根据需求选择最佳方案。它还提供了热模块替换（HMR）功能，使得开发过程更加高效。\n\n- 社区支持：Next.js拥有一个活跃且充满活力的社区，提供了大量的插件、工具和解决方案，助力开发者快速构建出色的Web应用。\n\n\n## Next.js适合的人群\nNext.js适用于广泛的开发人群，包括前端程序员和全栈程序员。无论您是有经验的React开发者还是初学者，Next.js都能为您提供许多优势：\n\n对于前端程序员而言，Next.js提供了一种无缝的过渡方式，使得他们可以通过引入服务端渲染和静态网站生成等概念，将现有的React应用提升到一个全新的层次。\n\n对于全栈程序员来说，Next.js的全栈能力使得全栈程序员可以在同一个框架中处理前端和后端逻辑，从而简化了开发流程，提高了工作效率。\n\n无论您是前端程序员还是全栈程序员，Next.js都是您构建现代Web应用的理想选择。\n\n\n## Next.js与Nuxt.js的对比\n在讨论Next.js之前，我们不得不提到Nuxt.js，这是Vue.js生态系统中类似于Next.js的框架。虽然两者都具有类似的目标，但各自有着不同的优势和特点。\n\nNext.js的优势：\n\n- 生态系统：Next.js拥有一个庞大且活跃的React生态系统，这意味着您可以轻松地使用React的各种库和工具。这为开发者提供了更多的选择和灵活性。\n\n- 学习曲线：对于已经熟悉React的开发者来说，学习Next.js将是一个平滑的过渡。Next.js保持了React的核心概念和语法，只是添加了一些额外的功能和约定。\n\n- 性能：Next.js通过服务端渲染（SSR）和静态网站生成（SSG）等技术，提供了出色的性能。它可以加快页面加载速度，并提供更好的SEO优化。\n\nNuxt.js的优势：\n\n- Vue生态系统：Nuxt.js是Vue.js的一部分，因此它与Vue的生态系统紧密集成。如果您已经熟悉Vue.js，那么选择Nuxt.js可能更符合您的需求。\n\n- 自动生成路由：Nuxt.js可以根据您的项目结构自动生成路由配置，这使得管理和维护路由变得更加简单和高效。\n\n- 静态文件生成：与Next.js类似，Nuxt.js也支持静态网站生成（SSG），使得页面预先生成，从而提供更快的加载速度和更好的用户体验。\n\n虽然Next.js和Nuxt.js有各自的优势，但选择哪个框架取决于您的需求和熟悉程度。如果您已经熟悉React和React生态系统，那么Next.js是一个不错的选择；如果您更喜欢Vue.js并且希望与Vue的生态系统无缝集成，那么Nuxt.js可能更适合您。\n\n\n## Next.js的社区状态\nNext.js拥有一个庞大而活跃的社区，这对于一个开源框架来说至关重要。Next.js的社区提供了丰富的资源和支持，包括：\n\n- 插件和扩展：Next.js社区开发了许多插件和扩展，可以轻松地扩展框架的功能。无论您需要添加数据层、样式库还是其他功能，都可以在社区中找到相应的解决方案。\n\n- 教程和文档：Next.js社区提供了大量的教程、文档和示例代码，帮助开发者快速入门和解决问题。您可以在社区中找到关于Next.js最佳实践、性能优化和实用技巧的宝贵资源。\n\n- 活跃的开发者社区：Next.js社区非常活跃，开发者们积极分享他们的经验、洞察和解决方案。在社区中，您可以与其他开发者交流、提问和寻求帮助，共同推动Next.js的发展。\n\n\n## 总结\nNext.js作为一个备受推崇的React框架，在现代Web开发中扮演着重要的角色。它通过优秀的性能、灵活性和开发体验，吸引了众多前端程序员和全栈程序员的青睐。与Nuxt.js相比，Next.js在React生态系统的支持和学习曲线方面具备优势。同时，Next.js拥有一个活跃的社区，提供了丰富的资源和支持。\n\n如果您想学习Next.js，可以访问我的[Next.js全栈指南](https://blog.chdl.fun/ChBlog/docs/category/nextjs/)，其中包含了一系列关于Next.js的教程和示例代码，帮助您快速掌握Next.js的开发技能。"
+    },
+    {
+      "id": "how-to-select-ssg-frame",
+      "metadata": {
+        "permalink": "/ChBlog/blog/how-to-select-ssg-frame",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-03-05-how-to-select-ssg-frame.md",
+        "source": "@site/blog/2024-03-05-how-to-select-ssg-frame.md",
+        "title": "Hexo、VitePress、Docusaurus，哪个最适合你的静态网站生成器？",
+        "description": "在选择合适的静态网站生成器时，Hexo、VitePress、Docusaurus是三个备受关注的选项，那么到底哪一个框架更适合你呢？本文将从使用场景、社区生态、功能、性能、扩展性这五个方面，帮你全方位分析各个框架的优缺点，以便为你的技术选型提供参考。",
+        "date": "2024-03-05T00:00:00.000Z",
+        "formattedDate": "2024年3月5日",
+        "tags": [
+          {
+            "label": "ssg",
+            "permalink": "/ChBlog/blog/tags/ssg"
+          },
+          {
+            "label": "frame",
+            "permalink": "/ChBlog/blog/tags/frame"
+          }
+        ],
+        "readingTime": 9.8,
+        "hasTruncateMarker": true,
+        "authors": [
+          {
+            "name": "cuihao",
+            "title": "Maintainer of Docusaurus",
+            "url": "https://github.com/cuihaoweb",
+            "imageURL": "https://github.com/cuihaoweb.png",
+            "key": "cuihao"
+          }
+        ],
+        "frontMatter": {
+          "slug": "how-to-select-ssg-frame",
+          "keywords": [
+            "hexo",
+            "vitepress",
+            "docusaurus"
+          ],
+          "authors": "cuihao",
+          "tags": [
+            "ssg",
+            "frame"
+          ]
+        },
+        "unlisted": false,
+        "prevItem": {
+          "title": "全栈开发的必备利器 Next.js",
+          "permalink": "/ChBlog/blog/next-fullstack-intro"
+        },
+        "nextItem": {
+          "title": "css(单行、多行)展示省略号，兼容所有浏览器",
+          "permalink": "/ChBlog/blog/ellipsis"
+        }
+      },
+      "content": "在选择合适的静态网站生成器时，Hexo、VitePress、Docusaurus是三个备受关注的选项，那么到底哪一个框架更适合你呢？本文将从使用场景、社区生态、功能、性能、扩展性这五个方面，帮你全方位分析各个框架的优缺点，以便为你的技术选型提供参考。\n\n<!--truncate-->\n## 1、应用场景\n- [Hexo](https://hexo.io), 官方定位自己是 [\"快速、简洁且高效的博客框架\"](https://hexo.io) , 但是它同样适合构建简单的文档网站，它具有简单易用的特点，适合那些对技术要求不高的个人用户快速搭建和管理网站。\n\n- [VitePress](https://vitepress.dev), 基于vue的SSG框架，可以快速构建个人的技术文档系统，但是官方默认是不支持构建博客网站的，但是对于专业的前端开发者来说可以自己定制主题，对于非技术人员有一定的门槛。\n\n- [Docusaurus](https://docusaurus.io), 基于react的SSG框架，相比与VitePress，Docusaurus支持博客和文档系统，同时也提供了一定的定制化能力，同样对于专业的前端开发者来说也可以自己定制主题，对于非技术人员有一定的门槛。\n\n\n## 2、功能\n| 框架 | 国际化 | 主题切换 | 本地搜索 | markdown语法 |\n| --- | --- | --- | --- | --- |\n| hexo | ✓ | ✓ | ✓ | ✓ |\n| vitepress | ✓ | ✓ | ✓ | ✓ |\n| docusaurus | ✓ | ✓ | ✓ | ✓ |\n\n常见的功能，这些框架都支持，所以大家可以放心使用。\n\n\n## 3、社区生态\n**社区：**\n- Hexo, 由众多的独立开发者和用户提供支持和贡献，其社区十分活跃，你可以在社区中找到帮助和解决方案。\n- VitePress作为Vue项目的一部分，可以享受到Vue社区的支持。Vue社区庞大活跃，有很多开发者和用户参与其中，提供支持和贡献。\n- Docusaurus由Facebook开发和维护，拥有庞大的社区和开发者基础。它的社区中有很多开发者和用户提供支持和贡献，可以获得丰富的资源和帮助。\n\n**github stars：**\n| 框架 | github stars | url |\n| --- | --- | --- |\n| hexo | 38.2k | https://github.com/hexojs/hexo |\n| vitepress | 10.4k | https://github.com/vuejs/vitepress |\n| docusaurus | 51.8k | https://github.com/facebook/docusaurus |\n\n相比较来说，docusaurus的stars数最多，hexo次之，vitepress最少当然10k左右的star其实已经很高了。\n\n通过github stars的数量从侧面反应了这些框架在开源社区中的受欢迎程度和广泛使用的程度。然而，stars数目并不是衡量一个工具好坏的唯一标准。除了stars数目外，还应考虑其他因素，例如功能特性、扩展性、性能等。每个工具都有自己的特点和优势，适用于不同的使用场景和需求。因此，在选择合适的静态网站生成器时，除了stars数目外，还应该综合考虑工具的特点和适用性，以及社区支持和生态系统的健康程度，这只是提供给大家一个参考。\n\n**theme：**\n- Hexo官方提供了一些内置的主题供选择，如Next、landscape、jacman等。这些主题具有不同的风格和布局，可以根据个人喜好进行选择和定制。Hexo社区中也有许多第三方开发的主题，如Butterfly、Maupassant等。这些主题提供了更多的样式和功能定制选项，可以满足更多的需求。\n- VitePress官方提供了默认的主题，具有简洁的设计和易于导航的布局。这个主题适合构建技术文档和API文档等。VitePress使用Vue单文件组件来编写内容，因此可以根据需求自定义主题。可以通过修改默认主题的样式和布局，或者创建全新的主题来满足个性化需求。\n- Docusaurus官方提供了默认主题，具有专注于文档网站的特点。它提供了清晰的导航结构、多语言支持、版本控制等功能，适合构建开源项目的文档网站。Docusaurus支持通过React自定义布局和组件来创建定制化主题。可以根据项目需求进行样式和布局的修改，或者通过创建自定义组件来扩展功能。\n\n主题模板是静态网站生成器中用于定义网站外观和布局的重要组成部分。Hexo、VitePress和Docusaurus都提供了丰富的主题模板供选择。\n\nHexo拥有官方和第三方主题，可满足不同风格和需求；VitePress提供默认主题和自定义选项，适用于简洁的开源项目文档网站；Docusaurus的官方主题同样适合构建开源项目文档网站，并支持自定义布局和组件。\n\n在选择主题模板时，应考虑风格、功能定制和社区支持。通过选择适合的主题模板，您可以快速打造吸引人、个性化的网站，满足您的需求和品味。\n\n## 4、性能\n说性能之前，得先知道各个框架底层的渲染框架，\n- hexo，底层使用EJS，EJS是一款 [\"嵌入式 JavaScript 模板\"](https://ejs.co) , 因此hexo的运行时依赖很少，具有原生html的性能。\n- vitepress，底层使用了vite、vue进行构建，vitepress运行时会有一个hydrate的过程，因此需要额外依赖vue.js的运行时支持，也就是需要加载额外的js文件。\n    :::tip\n    所谓hydrate，指的是 Vue 在浏览器端接管由服务端发送的静态 HTML，使其变为由 Vue 管理的动态 DOM 的过程。简单解释来说，就是让静态的html可以通过vue.js进行交互。\n    :::\n- Docusaurus，底层使用了webpack、react进行构建，同样也会有hydrate的过程，也需要加载额外的js文件。\n\n总结来说，从页面加载速度来说，hexo > vitepress > docusaurus。从开发环境的速来来说：ejs > vite > webpack。\n\n但是，这些框架页面的加载速度来说，其实也就是200ms以内的差异，如果使用http cache、gzip等优化手段，这些框架的渲染速度差异几乎可以忽略不计。\n\n\n## 5、扩展性\n- hexo，由于底层使用了ejs模板引擎，因此想要更加方便的扩展，其实相对来说不是一件容易的事情。然而如果你能选择hexo，我相信你其实也不需要什么额外的扩展。\n- vitepress，底层使用了vue，因此支持你完全使用vue的语法去定制你想要的任何样式。\n- docusaurus, 底层使用了react，因此同样支持你完全使用react的语法去定制你想要的任何样式。\n\n\n## 总结\n综上所述，根据不同的使用场景和需求，可以选择适合的工具。\n\n如果你是一个**非前端开发者**，那么我建议hexo，你完全可以使用hexo提供丰富的社区模板构建你想要的页面。\n\n如果你是前端程序员，并且技术栈以vue为主，可以尝试vitepress，但是vitepress不支持博客，当然你完全可以定制化主题，但是不妨可以先看看hexo是否有满足你需求的博客主题模板。\n\n如果你是前端程序员，并且技术栈以react为主，可以使用docusaurus，它同时支持博客和文档，同样支持定制化主题。\n\n最后献上我的个人博客网站：https://blog.chdl.fun , 我的博客是采用了docusaurus进行构建，欢迎读者老爷前来围观。\n\n\n## 参考：\n- hexo官方网站： https://hexo.io\n- vitepress官方网站：https://vitepress.dev\n- docusaurus官方网站：https://docusaurus.io\n- ejs官方网站：https://ejs.co\n- vue.js：https://v2.ssr.vuejs.org/guide/hydration.html#client-side-hydration"
+    },
+    {
+      "id": "ellipsis",
+      "metadata": {
+        "permalink": "/ChBlog/blog/ellipsis",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/css/2024-03-04-ellipsis.md",
+        "source": "@site/blog/css/2024-03-04-ellipsis.md",
+        "title": "css(单行、多行)展示省略号，兼容所有浏览器",
+        "description": "本文探讨了如何使用CSS来处理超出容器范围的内容并展示省略号, 帮助您在网页设计中实现优雅的文本截断效果。",
+        "date": "2024-03-04T00:00:00.000Z",
+        "formattedDate": "2024年3月4日",
+        "tags": [
+          {
+            "label": "css",
+            "permalink": "/ChBlog/blog/tags/css"
+          }
+        ],
+        "readingTime": 1.02,
+        "hasTruncateMarker": true,
+        "authors": [
+          {
+            "name": "cuihao",
+            "title": "Maintainer of Docusaurus",
+            "url": "https://github.com/cuihaoweb",
+            "imageURL": "https://github.com/cuihaoweb.png",
+            "key": "cuihao"
+          }
+        ],
+        "frontMatter": {
+          "slug": "ellipsis",
+          "authors": "cuihao",
+          "keywords": [
+            "css",
+            "省略号"
+          ],
+          "tags": [
+            "css"
+          ]
+        },
+        "unlisted": false,
+        "prevItem": {
+          "title": "Hexo、VitePress、Docusaurus，哪个最适合你的静态网站生成器？",
+          "permalink": "/ChBlog/blog/how-to-select-ssg-frame"
+        },
+        "nextItem": {
+          "title": "Docker的作用，到底解决了什么痛点?",
+          "permalink": "/ChBlog/blog/what-is-docker"
+        }
+      },
+      "content": "本文探讨了如何使用CSS来处理超出容器范围的内容并展示省略号, 帮助您在网页设计中实现优雅的文本截断效果。\n\n<!--truncate-->\n## 超出单行省略号\n```CSS\n.ellipsis {\n    overflow: hidden;\n    white-space: nowrap;\n    text-overflow: ellipsis;\n}\n```\n\n## 超出多行省略号\n<b>webkit内核</b>\n```CSS\n.introduction {\n    display: -webkit-box;\n    -webkit-box-orient: vertical;\n    -webkit-line-clamp: 2;\n    text-overflow: ellipsis;\n    overflow: hidden;\n}\n```\n- 注意点：\n    1. 必须给文本的最近父容器添加上述属性，否则会在ios下失效。\n    2. 如果子元素设置为display: inline时，也可生效。\n\n<b>非webkit内核, 兼容方式</b>\n```CSS\n.introduction {\n    display: block;\n    position: relative;\n    line-height: 1.4em;\n    height: 2.8em;\n    overflow: hidden;\n}\n.introduction::after {\n    content: \"...\";\n    font-weight: bold;\n    position: absolute;\n    bottom: .3em;\n    right: 0;\n    width: 1.4em;\n    background-color: white;\n}\n```\n- 添加伪元素，设置白色背景，定位到最后一行末尾。"
+    },
+    {
+      "id": "what-is-docker",
+      "metadata": {
+        "permalink": "/ChBlog/blog/what-is-docker",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/docker/2024-03-04-what-is-docker.md",
+        "source": "@site/blog/docker/2024-03-04-what-is-docker.md",
+        "title": "Docker的作用，到底解决了什么痛点?",
+        "description": "本文探讨了Docker的作用和它在解决现代软件开发中的痛点方面的重要性。了解Docker如何提供轻量级、可移植和可扩展的容器化解决方案，简化了应用程序的部署、管理和跨环境移植。",
+        "date": "2024-03-04T00:00:00.000Z",
+        "formattedDate": "2024年3月4日",
+        "tags": [
+          {
+            "label": "docker",
+            "permalink": "/ChBlog/blog/tags/docker"
+          }
+        ],
+        "readingTime": 3.045,
+        "hasTruncateMarker": true,
+        "authors": [
+          {
+            "name": "cuihao",
+            "title": "Maintainer of Docusaurus",
+            "url": "https://github.com/cuihaoweb",
+            "imageURL": "https://github.com/cuihaoweb.png",
+            "key": "cuihao"
+          }
+        ],
+        "frontMatter": {
+          "slug": "what-is-docker",
+          "keywords": [
+            "docker",
+            "容器化技术",
+            "移植性",
+            "隔离性"
+          ],
+          "authors": "cuihao",
+          "tags": [
+            "docker"
+          ]
+        },
+        "unlisted": false,
+        "prevItem": {
+          "title": "css(单行、多行)展示省略号，兼容所有浏览器",
+          "permalink": "/ChBlog/blog/ellipsis"
+        },
+        "nextItem": {
+          "title": "React 还是 Vue，哪个 JS 框架最好？",
+          "permalink": "/ChBlog/blog/react-or-vue"
+        }
+      },
+      "content": "本文探讨了Docker的作用和它在解决现代软件开发中的痛点方面的重要性。了解Docker如何提供轻量级、可移植和可扩展的容器化解决方案，简化了应用程序的部署、管理和跨环境移植。\n\n<!--truncate-->\n## 1. 移植性, 一次构建到处使用\n假如有一个服务器a运行了很多项目(node、java、php、mysql)。有一天需要使用新的服务器b。\n\n那么服务器a上的所有运行的项目都得迁移到服务器b上，那么需要给服务器b搭建各种运行环境，工作量耗时耗力。\n\n使用docker将所以的项目以及运行环境进行镜像构建，只需要在另一个服务器上安装一个docker，并下载对应之前构建好的镜像，就能快速搭建出对应的运行环境，并将项目运行起来。\n\n## 2. 隔离性, 不同的容器之间相互独立，互不干扰\nDocker通过namespace实现隔离的，namespace是Linux提供的资源隔离机制，负责隔离进程。只有在同一个namespace下的进程可以相互联系，但无法感受到外部进程的存在，营造出处于一个独立的系统环境中的错觉。\n\n因为namespace不管再怎么隔离，但是容器内部执行任务都依赖同一个cpu、内存等。为了防止容器过度占用或影响其他容器或宿主机，需要限制容器使用的 CPU 核心数量、内存大小，或者设置容器的网络带宽限制，以确保容器之间的资源使用互不干扰。因此使用了控制组（Control Groups，简称cgroups）是一个 Linux 内核特性，它可以为进程或进程组分配资源，并限制其资源使用量，确保系统的资源公平分配和高效利用。\n\n## 3. 轻量, docker是一种虚拟化容器技术。\n他和虚拟机最根本的区别是：**docker容器和宿主机共用**操作系统**内核，不会在宿主机上再次安装操作系统**，更加节省资源。\n\n## 4. 启动快\ndocker采用了一种镜像分层模型，通过这种模型可以实现镜像之间的共享和重用，启动容器时无需加载整个镜像层，所以启动会更快。"
+    },
+    {
+      "id": "react-or-vue",
+      "metadata": {
+        "permalink": "/ChBlog/blog/react-or-vue",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/react/2024-03-04-react-or-vue.md",
+        "source": "@site/blog/react/2024-03-04-react-or-vue.md",
+        "title": "React 还是 Vue，哪个 JS 框架最好？",
+        "description": "React 是用于构建单页应用程序的最流行的 JavaScript 库。另一方面，Vue.js声称是框架。它们比 Angular 有更多的共同点，Angular 是一个“真正的”框架。🚩",
+        "date": "2024-03-04T00:00:00.000Z",
+        "formattedDate": "2024年3月4日",
+        "tags": [
+          {
+            "label": "react",
+            "permalink": "/ChBlog/blog/tags/react"
+          },
+          {
+            "label": "vue",
+            "permalink": "/ChBlog/blog/tags/vue"
+          }
+        ],
+        "readingTime": 7.795,
+        "hasTruncateMarker": true,
+        "authors": [
+          {
+            "name": "cuihao",
+            "title": "Maintainer of Docusaurus",
+            "url": "https://github.com/cuihaoweb",
+            "imageURL": "https://github.com/cuihaoweb.png",
+            "key": "cuihao"
+          }
+        ],
+        "frontMatter": {
+          "slug": "react-or-vue",
+          "keywords": [
+            "react",
+            "vue",
+            "react-vs-vue"
+          ],
+          "authors": "cuihao",
+          "tags": [
+            "react",
+            "vue"
+          ]
+        },
+        "unlisted": false,
+        "prevItem": {
+          "title": "Docker的作用，到底解决了什么痛点?",
+          "permalink": "/ChBlog/blog/what-is-docker"
+        }
+      },
+      "content": "React 是用于构建单页应用程序的最流行的 JavaScript 库。另一方面，Vue.js声称是框架。它们比 Angular 有更多的共同点，Angular 是一个“真正的”框架。🚩\n\n在本文中，我将对 React.js 和 Vue.js 进行详细比较，以便您决定哪种 JS 框架/库最适合您。🚧\n\n<!--truncate-->\n## ⚖️框架概述\nReact 由 Facebook 的软件工程师 Jordan Walke 创建。目前，它由 Meta（前身为 Facebook）以及一个由个人开发者和公司组成的社区维护。\n\n其丰富的生态系统和灵活性使其成为构建复杂用户界面和处理数据处理任务的完美选择。\n\n此外，React Native 是 React.js 的扩展，使开发人员能够轻松创建混合移动应用程序。\n<hr />\nVue 是一个相对较新的进入者，由 Evan You 创建，Vue 专注于 UI 设计和开发的简单性和效率。\n\n🧹🫧其直观的语法和清晰的设计原则使其对寻求用于构建界面的简单框架的开发人员具有吸引力。\n\nVue.js 还通过 Pinia 提供 `built-in` 动画和状态管理等功能，以满足广泛的开发需求。\n\n## 🍏 使用Vue.js的原因\nVue.js因其简单性而受到关注。开发人员欣赏其清晰而合乎逻辑的设计，它加快了开发过程和工作流程。\n\n与其他一些框架不同，Vue.js在整个 UI 功能中保持一致的语法。\n\nVue.js的优势之一在于其高效的官方插件，这些插件为常见任务提供解决方案，例如 `Vue-Router` .\n\n\n## ⚛️ 使用 React 的原因\nReact.js具有一些独特的功能，使其成为开发人员的热门选择。\n\n**JSX 语法简化了自定义组件的创建。📂**\n\nJSX 代表 JavaScript XML。JSX 允许我们在 React 中编写 HTML。JSX 使在 React 中编写和添加 HTML 变得更加容易。\n\n它只是一个类似 XML 的扩展，允许我们编写看起来像标记的 JavaScript，并从组件返回它。\n\n此外，React.js 为搜索引擎优化 （SEO） 提供了强大的支持，确保使用 React.js 构建的 Web 应用程序易于搜索引擎发现和索引。\n\nReact.js的另一个优势是它支持通过 React Native 进行移动开发。熟悉React.js的开发人员可以提高他们的技能，使用与React.js相同的语法和开发模式来构建本机移动应用程序。\n\n此外，React 开发人员工具在组织和调试代码方面提供了宝贵的帮助。\n\n## **🥇 受欢迎程度和性能的比较**\nReact.js 和 Vue.js 在开发者社区中都见证了巨大的需求，但React.js目前在受欢迎程度方面略有优势。其更大的用户群和广泛的生态系统有助于其在各种项目和行业中的广泛使用。\n\n🛰️ 在性能方面，这两个框架都提供了 `virtual DOM` HTML 页面的高效呈现。📟\n\n**此方法可确保 UI 更新快速且响应迅速。**\n\n然而，Vue.js往往在组件创建和更新方面表现出色，这要归功于其简化的优化方法。\n\n> 🔎 Statista的调查报告显示，42.62%的开发者选择了React.js，而18.82%的开发者使用了Vue.js。用于 Web 开发\n\n## 🧊可扩展性\n可伸缩性是处理大型复杂应用程序的框架的关键因素。\n\nReact.js通过 [\"smart\" and \"dumb\" components](https://coderwall.com/p/znkw-q/smart-vs-dumb-components-when-to-use-which) 的概念提供了一个可扩展的架构。\n\nVue.js提供了类似的可伸缩性方法，通过 Pinia 和其他官方库支持状态管理。这使开发人员能够有效地管理状态更改，并确保在项目复杂性增加时获得最佳性能。\n\n## 📲适应移动设备\nReact.js 和 Vue.js 都为移动开发提供解决方案，以满足对跨平台应用程序日益增长的需求。\n\nReact Native 是一个基于 React.js 的移动开发框架，允许开发人员使用熟悉的React.js模式构建原生 iOS 和 Android 应用程序。\n<hr />\nVue.js 支持阿里巴巴集团开发的移动 UI 框架 Weex，该框架支持使用Vue.js组件创建 iOS 和 Android 应用程序。\n\n虽然 Weex 的受欢迎程度可能不如 React Native，但它为寻求以Vue.js为中心的移动开发方法的开发人员提供了一个可行的选择。\n\n## 🚎🔩规模和社区支持\n框架的大小会显著影响其性能和加载时间。\n\n与 React.js 相比，Vue.js 的默认大小更小，因此对于优先考虑优化的项目来说，这是一个有吸引力的选择。\n\n此外，Vue.js提供了开箱即用的基本功能。例如，它减少了对额外库下载的需求。\n\n在社区支持方面，React.js受益于Facebook和活跃的开源社区的支持。然而，由于其用户友好的设计和广泛的文档，Vue.js 在开发人员中也获得了吸引力。虽然React.js可能拥有更大的社区，但Vue.js的日益普及表明其长期成功的潜力。\n\n## 🏒使用案例\nReact.js 和 Vue.js 都是具有广泛用例的多功能框架。\n\nReact.js主要用于构建社交媒体平台、复杂的 Web 应用程序以及需要与 React Native 无缝集成以进行移动开发的项目。\n\n另一方面，Vue.js非常适合中小型 Web 应用程序、实时平台和内容交付平台。其快速的性能和易于维护使其成为寻求轻量级框架以进行快速开发的开发人员的热门选择。\n\n## 👏结论\n总之，React.js和Vue.js都为前端开发项目提供了独特的优势和优势。React.js 凭借其多功能性、强大的生态系统和对移动开发的支持而获胜。它是处理复杂应用程序的开发人员的首选。\n\n另一方面，Vue.js以其简单、高效和快速的性能而著称。其直观的语法和高效的设计使其成为寻求开销最小的轻量级框架的开发人员的绝佳选择。\n\n引用：https://dev.to/codewithshahan/react-or-vue-which-js-framework-is-best-25on"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/styling/css-pretreater",
+  "title": "css预处理器",
+  "description": "CSS预处理器可以帮助我们编写更加可维护的CSS样式, CSS预处理器允许我们定义变量, 允许嵌套规则, 允许创建可重用的样式块.",
+  "source": "@site/docs/nextjs/04.styling/02.css-pretreater.md",
+  "sourceDirName": "nextjs/04.styling",
+  "slug": "/nextjs/styling/css-pretreater",
+  "permalink": "/ChBlog/en/docs/nextjs/styling/css-pretreater",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/04.styling/02.css-pretreater.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UI组件库的选择",
+    "permalink": "/ChBlog/en/docs/nextjs/styling/ui-component"
+  },
+  "next": {
+    "title": "Tailwind Css",
+    "permalink": "/ChBlog/en/docs/nextjs/styling/tailwindcss"
+  }
+}

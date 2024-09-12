@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/client-api/useRouter",
+  "title": "useRouter",
+  "description": "useRouter 允许你以编程方式更改客户端组件中的路由。",
+  "source": "@site/docs/nextjs/07.client-api/03.useRouter.md",
+  "sourceDirName": "nextjs/07.client-api",
+  "slug": "/nextjs/client-api/useRouter",
+  "permalink": "/ChBlog/en/docs/nextjs/client-api/useRouter",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/07.client-api/03.useRouter.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "usePathname",
+    "permalink": "/ChBlog/en/docs/nextjs/client-api/usePathname"
+  },
+  "next": {
+    "title": "延迟加载",
+    "permalink": "/ChBlog/en/docs/nextjs/client-api/lazy-load"
+  }
+}

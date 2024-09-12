@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/server-api/headers",
+  "title": "headers",
+  "description": "next.js允许你通过 headers() 函数从服务器组件读取 HTTP 头，同时支持操作响应头。",
+  "source": "@site/docs/nextjs/08.server-api/03.headers.md",
+  "sourceDirName": "nextjs/08.server-api",
+  "slug": "/nextjs/server-api/headers",
+  "permalink": "/ChBlog/en/docs/nextjs/server-api/headers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/08.server-api/03.headers.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cookies",
+    "permalink": "/ChBlog/en/docs/nextjs/server-api/cookies"
+  },
+  "next": {
+    "title": "middleware",
+    "permalink": "/ChBlog/en/docs/nextjs/server-api/middleware"
+  }
+}

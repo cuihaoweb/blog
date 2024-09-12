@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/configure/env",
+  "title": "环境变量",
+  "description": "Next.js 内置了对从 .env.local 环境变量的支持。",
+  "source": "@site/docs/nextjs/11.configure/03.env.md",
+  "sourceDirName": "nextjs/11.configure",
+  "slug": "/nextjs/configure/env",
+  "permalink": "/ChBlog/en/docs/nextjs/configure/env",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/11.configure/03.env.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "stylelint",
+    "permalink": "/ChBlog/en/docs/nextjs/configure/stylelint"
+  },
+  "next": {
+    "title": "next.config.js",
+    "permalink": "/ChBlog/en/docs/nextjs/configure/next.configjs"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "permalink": "/ChBlog/en/blog/what-is-docker",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/docker/2024-03-04-what-is-docker.md",
+  "source": "@site/blog/docker/2024-03-04-what-is-docker.md",
+  "title": "Docker的作用，到底解决了什么痛点?",
+  "description": "本文探讨了Docker的作用和它在解决现代软件开发中的痛点方面的重要性。了解Docker如何提供轻量级、可移植和可扩展的容器化解决方案，简化了应用程序的部署、管理和跨环境移植。",
+  "date": "2024-03-04T00:00:00.000Z",
+  "formattedDate": "March 4, 2024",
+  "tags": [
+    {
+      "label": "docker",
+      "permalink": "/ChBlog/en/blog/tags/docker"
+    }
+  ],
+  "readingTime": 3.045,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "cuihao",
+      "title": "Maintainer of Docusaurus",
+      "url": "https://github.com/cuihaoweb",
+      "imageURL": "https://github.com/cuihaoweb.png",
+      "key": "cuihao"
+    }
+  ],
+  "frontMatter": {
+    "slug": "what-is-docker",
+    "keywords": [
+      "docker",
+      "容器化技术",
+      "移植性",
+      "隔离性"
+    ],
+    "authors": "cuihao",
+    "tags": [
+      "docker"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "css(单行、多行)展示省略号，兼容所有浏览器",
+    "permalink": "/ChBlog/en/blog/ellipsis"
+  },
+  "nextItem": {
+    "title": "React 还是 Vue，哪个 JS 框架最好？",
+    "permalink": "/ChBlog/en/blog/react-or-vue"
+  }
+}

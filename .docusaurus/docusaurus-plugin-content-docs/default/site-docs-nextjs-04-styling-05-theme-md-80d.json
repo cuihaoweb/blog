@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/styling/theme",
+  "title": "主题",
+  "description": "通过CSS定制化主题可以很方便的改变页面的外观和样式，以实现不同的视觉效果和用户体验。通过定制主题，可以使网站、应用或界面适应不同的设计需求、品牌标识或用户偏好。",
+  "source": "@site/docs/nextjs/04.styling/05.theme.md",
+  "sourceDirName": "nextjs/04.styling",
+  "slug": "/nextjs/styling/theme",
+  "permalink": "/ChBlog/en/docs/nextjs/styling/theme",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/04.styling/05.theme.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "css module",
+    "permalink": "/ChBlog/en/docs/nextjs/styling/css-module"
+  },
+  "next": {
+    "title": "自适应页面",
+    "permalink": "/ChBlog/en/docs/nextjs/styling/self-adaption"
+  }
+}

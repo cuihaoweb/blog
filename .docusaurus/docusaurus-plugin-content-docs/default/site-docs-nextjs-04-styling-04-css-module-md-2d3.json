@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/styling/css-module",
+  "title": "css module",
+  "description": "CSS模块（CSS Modules）是一种用于解决CSS命名冲突和作用域隔离问题的技术。它通过在编译阶段为CSS样式表生成唯一的类名，以确保样式的作用范围仅限于其所属的组件或模块。",
+  "source": "@site/docs/nextjs/04.styling/04.css-module.md",
+  "sourceDirName": "nextjs/04.styling",
+  "slug": "/nextjs/styling/css-module",
+  "permalink": "/ChBlog/en/docs/nextjs/styling/css-module",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/04.styling/04.css-module.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tailwind Css",
+    "permalink": "/ChBlog/en/docs/nextjs/styling/tailwindcss"
+  },
+  "next": {
+    "title": "主题",
+    "permalink": "/ChBlog/en/docs/nextjs/styling/theme"
+  }
+}

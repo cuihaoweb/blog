@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/router/not-found",
+  "title": "404页面",
+  "description": "当你访问一个未找到的路由时, 该页面将被呈现为NotFound的样式。",
+  "source": "@site/docs/nextjs/03.router/03.not-found.md",
+  "sourceDirName": "nextjs/03.router",
+  "slug": "/nextjs/router/not-found",
+  "permalink": "/ChBlog/en/docs/nextjs/router/not-found",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/03.router/03.not-found.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "可复用的布局",
+    "permalink": "/ChBlog/en/docs/nextjs/router/layout"
+  },
+  "next": {
+    "title": "loading加载",
+    "permalink": "/ChBlog/en/docs/nextjs/router/loading"
+  }
+}

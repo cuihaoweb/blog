@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/server-api/RESTful-API",
+  "title": "RESTful-API",
+  "description": "RESTful API",
+  "source": "@site/docs/nextjs/08.server-api/05.RESTful-API.md",
+  "sourceDirName": "nextjs/08.server-api",
+  "slug": "/nextjs/server-api/RESTful-API",
+  "permalink": "/ChBlog/en/docs/nextjs/server-api/RESTful-API",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/08.server-api/05.RESTful-API.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "middleware",
+    "permalink": "/ChBlog/en/docs/nextjs/server-api/middleware"
+  },
+  "next": {
+    "title": "NextResponse",
+    "permalink": "/ChBlog/en/docs/nextjs/server-api/NextResponse"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "permalink": "/ChBlog/en/blog/how-to-select-ssg-frame",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-03-05-how-to-select-ssg-frame.md",
+  "source": "@site/blog/2024-03-05-how-to-select-ssg-frame.md",
+  "title": "Hexo、VitePress、Docusaurus，哪个最适合你的静态网站生成器？",
+  "description": "在选择合适的静态网站生成器时，Hexo、VitePress、Docusaurus是三个备受关注的选项，那么到底哪一个框架更适合你呢？本文将从使用场景、社区生态、功能、性能、扩展性这五个方面，帮你全方位分析各个框架的优缺点，以便为你的技术选型提供参考。",
+  "date": "2024-03-05T00:00:00.000Z",
+  "formattedDate": "March 5, 2024",
+  "tags": [
+    {
+      "label": "ssg",
+      "permalink": "/ChBlog/en/blog/tags/ssg"
+    },
+    {
+      "label": "frame",
+      "permalink": "/ChBlog/en/blog/tags/frame"
+    }
+  ],
+  "readingTime": 9.8,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "cuihao",
+      "title": "Maintainer of Docusaurus",
+      "url": "https://github.com/cuihaoweb",
+      "imageURL": "https://github.com/cuihaoweb.png",
+      "key": "cuihao"
+    }
+  ],
+  "frontMatter": {
+    "slug": "how-to-select-ssg-frame",
+    "keywords": [
+      "hexo",
+      "vitepress",
+      "docusaurus"
+    ],
+    "authors": "cuihao",
+    "tags": [
+      "ssg",
+      "frame"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "全栈开发的必备利器 Next.js",
+    "permalink": "/ChBlog/en/blog/next-fullstack-intro"
+  },
+  "nextItem": {
+    "title": "css(单行、多行)展示省略号，兼容所有浏览器",
+    "permalink": "/ChBlog/en/blog/ellipsis"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/styling/tailwindcss",
+  "title": "Tailwind Css",
+  "description": "Tailwind CSS是一个功能强大的CSS框架, 它提供了一组原子级的CSS类，用于快速构建定制化的界面。",
+  "source": "@site/docs/nextjs/04.styling/03.tailwindcss.md",
+  "sourceDirName": "nextjs/04.styling",
+  "slug": "/nextjs/styling/tailwindcss",
+  "permalink": "/ChBlog/en/docs/nextjs/styling/tailwindcss",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/04.styling/03.tailwindcss.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "css预处理器",
+    "permalink": "/ChBlog/en/docs/nextjs/styling/css-pretreater"
+  },
+  "next": {
+    "title": "css module",
+    "permalink": "/ChBlog/en/docs/nextjs/styling/css-module"
+  }
+}

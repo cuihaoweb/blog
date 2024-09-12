@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/server-api/notFound",
+  "title": "notFound",
+  "description": "调用该 notFound() 函数会引发 NEXTNOTFOUND 错误，并终止后续的路由处理。",
+  "source": "@site/docs/nextjs/08.server-api/09.notFound.md",
+  "sourceDirName": "nextjs/08.server-api",
+  "slug": "/nextjs/server-api/notFound",
+  "permalink": "/ChBlog/en/docs/nextjs/server-api/notFound",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/08.server-api/09.notFound.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NextResponse",
+    "permalink": "/ChBlog/en/docs/nextjs/server-api/NextResponse"
+  },
+  "next": {
+    "title": "redirect",
+    "permalink": "/ChBlog/en/docs/nextjs/server-api/redirect"
+  }
+}

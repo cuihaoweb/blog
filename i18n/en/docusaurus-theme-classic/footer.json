@@ -1,0 +1,38 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.title.Links": {
+    "message": "Links",
+    "description": "The title of the footer links column with title=Links in the footer"
+  },
+  "link.item.label.Tutorial": {
+    "message": "Tutorial",
+    "description": "The label of footer link with label=Tutorial linking to /docs/intro"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to /blog"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/cuihaoweb"
+  },
+  "link.item.label.ch home": {
+    "message": "ch home",
+    "description": "The label of footer link with label=ch home linking to https://www.chdl.fun"
+  },
+  "link.item.label.toolkit": {
+    "message": "toolkit",
+    "description": "The label of footer link with label=toolkit linking to https://tk.chdl.fun"
+  },
+  "copyright": {
+    "message": "Copyright © 2024 My Project.",
+    "description": "The footer copyright"
+  }
+}

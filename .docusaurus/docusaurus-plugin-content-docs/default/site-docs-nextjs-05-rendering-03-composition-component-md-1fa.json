@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/rendering/composition-component",
+  "title": "混合组件模式",
+  "description": "在构建 next.js 应用程序时，您需要区分代码应该编造在服务端还是客户端。",
+  "source": "@site/docs/nextjs/05.rendering/03.composition-component.md",
+  "sourceDirName": "nextjs/05.rendering",
+  "slug": "/nextjs/rendering/composition-component",
+  "permalink": "/ChBlog/en/docs/nextjs/rendering/composition-component",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/05.rendering/03.composition-component.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "客户端组件",
+    "permalink": "/ChBlog/en/docs/nextjs/rendering/client-component"
+  },
+  "next": {
+    "title": "<Image>",
+    "permalink": "/ChBlog/en/docs/nextjs/buildIn-components/Image"
+  }
+}

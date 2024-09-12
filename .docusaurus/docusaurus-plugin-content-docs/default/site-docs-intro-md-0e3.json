@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "概要",
+  "description": "在该文档中，你将学习到NextJs的入门知识，并了解如何使用NextJs构建一个博客。",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/ChBlog/en/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "NextJs",
+    "permalink": "/ChBlog/en/docs/category/nextjs"
+  }
+}

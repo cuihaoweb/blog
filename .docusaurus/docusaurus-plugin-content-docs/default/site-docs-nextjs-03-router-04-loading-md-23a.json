@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/router/loading",
+  "title": "loading加载",
+  "description": "loading.js 可以帮助你使用React Suspense创建一个组件, 当你在加载路由内容时，它会显示该加载状态组件，渲染完成后，新的内容将会自动替换。",
+  "source": "@site/docs/nextjs/03.router/04.loading.md",
+  "sourceDirName": "nextjs/03.router",
+  "slug": "/nextjs/router/loading",
+  "permalink": "/ChBlog/en/docs/nextjs/router/loading",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/03.router/04.loading.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "404页面",
+    "permalink": "/ChBlog/en/docs/nextjs/router/not-found"
+  },
+  "next": {
+    "title": "动态路由",
+    "permalink": "/ChBlog/en/docs/nextjs/router/dynamic-routes"
+  }
+}

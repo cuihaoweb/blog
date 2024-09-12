@@ -1,0 +1,49 @@
+{
+  "permalink": "/ChBlog/en/blog/next-fullstack-intro",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/react/2024-03-12-next-fullstack-intro.md",
+  "source": "@site/blog/react/2024-03-12-next-fullstack-intro.md",
+  "title": "全栈开发的必备利器 Next.js",
+  "description": "在当今快节奏的Web开发领域，选择正确的框架对于前端和全栈程序员来说至关重要。本文将带您深入探索Next.js，这个备受推崇的框架，它不仅具有辉煌的历史背景，而且在现代Web开发中扮演着重要的角色。我们将了解Next.js的优势、适用人群以及与Nuxt.js的比较，同时探索Next.js在社区中的地位。让我们一同揭示Next.js的魅力和机遇。",
+  "date": "2024-03-12T00:00:00.000Z",
+  "formattedDate": "March 12, 2024",
+  "tags": [
+    {
+      "label": "react",
+      "permalink": "/ChBlog/en/blog/tags/react"
+    },
+    {
+      "label": "next.js",
+      "permalink": "/ChBlog/en/blog/tags/next-js"
+    }
+  ],
+  "readingTime": 7.995,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "cuihao",
+      "title": "Maintainer of Docusaurus",
+      "url": "https://github.com/cuihaoweb",
+      "imageURL": "https://github.com/cuihaoweb.png",
+      "key": "cuihao"
+    }
+  ],
+  "frontMatter": {
+    "slug": "next-fullstack-intro",
+    "keywords": [
+      "全栈",
+      "react",
+      "next",
+      "react"
+    ],
+    "authors": "cuihao",
+    "tags": [
+      "react",
+      "next.js"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Hexo、VitePress、Docusaurus，哪个最适合你的静态网站生成器？",
+    "permalink": "/ChBlog/en/blog/how-to-select-ssg-frame"
+  }
+}

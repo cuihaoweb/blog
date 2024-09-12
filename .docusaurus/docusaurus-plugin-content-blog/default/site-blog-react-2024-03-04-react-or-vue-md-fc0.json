@@ -1,0 +1,48 @@
+{
+  "permalink": "/ChBlog/en/blog/react-or-vue",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/react/2024-03-04-react-or-vue.md",
+  "source": "@site/blog/react/2024-03-04-react-or-vue.md",
+  "title": "React 还是 Vue，哪个 JS 框架最好？",
+  "description": "React 是用于构建单页应用程序的最流行的 JavaScript 库。另一方面，Vue.js声称是框架。它们比 Angular 有更多的共同点，Angular 是一个“真正的”框架。🚩",
+  "date": "2024-03-04T00:00:00.000Z",
+  "formattedDate": "March 4, 2024",
+  "tags": [
+    {
+      "label": "react",
+      "permalink": "/ChBlog/en/blog/tags/react"
+    },
+    {
+      "label": "vue",
+      "permalink": "/ChBlog/en/blog/tags/vue"
+    }
+  ],
+  "readingTime": 7.795,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "cuihao",
+      "title": "Maintainer of Docusaurus",
+      "url": "https://github.com/cuihaoweb",
+      "imageURL": "https://github.com/cuihaoweb.png",
+      "key": "cuihao"
+    }
+  ],
+  "frontMatter": {
+    "slug": "react-or-vue",
+    "keywords": [
+      "react",
+      "vue",
+      "react-vs-vue"
+    ],
+    "authors": "cuihao",
+    "tags": [
+      "react",
+      "vue"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Docker的作用，到底解决了什么痛点?",
+    "permalink": "/ChBlog/en/blog/what-is-docker"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/seo/robots.txt",
+  "title": "robots.txt",
+  "description": "Robots.txt是一个文本文件，用于告诉搜索引擎爬虫如何访问和抓取网站的内容。它位于网站的根目录下，通过指定特定的规则来控制搜索引擎爬虫的行为。",
+  "source": "@site/docs/nextjs/10.seo/03.robots.txt.md",
+  "sourceDirName": "nextjs/10.seo",
+  "slug": "/nextjs/seo/robots.txt",
+  "permalink": "/ChBlog/en/docs/nextjs/seo/robots.txt",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/10.seo/03.robots.txt.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sitemap.xml",
+    "permalink": "/ChBlog/en/docs/nextjs/seo/sitemap.xml"
+  },
+  "next": {
+    "title": "eslint",
+    "permalink": "/ChBlog/en/docs/nextjs/configure/eslint"
+  }
+}

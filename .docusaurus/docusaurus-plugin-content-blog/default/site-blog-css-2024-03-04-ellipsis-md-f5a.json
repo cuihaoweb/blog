@@ -1,0 +1,46 @@
+{
+  "permalink": "/ChBlog/en/blog/ellipsis",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/css/2024-03-04-ellipsis.md",
+  "source": "@site/blog/css/2024-03-04-ellipsis.md",
+  "title": "css(单行、多行)展示省略号，兼容所有浏览器",
+  "description": "本文探讨了如何使用CSS来处理超出容器范围的内容并展示省略号, 帮助您在网页设计中实现优雅的文本截断效果。",
+  "date": "2024-03-04T00:00:00.000Z",
+  "formattedDate": "March 4, 2024",
+  "tags": [
+    {
+      "label": "css",
+      "permalink": "/ChBlog/en/blog/tags/css"
+    }
+  ],
+  "readingTime": 1.02,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "cuihao",
+      "title": "Maintainer of Docusaurus",
+      "url": "https://github.com/cuihaoweb",
+      "imageURL": "https://github.com/cuihaoweb.png",
+      "key": "cuihao"
+    }
+  ],
+  "frontMatter": {
+    "slug": "ellipsis",
+    "authors": "cuihao",
+    "keywords": [
+      "css",
+      "省略号"
+    ],
+    "tags": [
+      "css"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Hexo、VitePress、Docusaurus，哪个最适合你的静态网站生成器？",
+    "permalink": "/ChBlog/en/blog/how-to-select-ssg-frame"
+  },
+  "nextItem": {
+    "title": "Docker的作用，到底解决了什么痛点?",
+    "permalink": "/ChBlog/en/blog/what-is-docker"
+  }
+}

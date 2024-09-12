@@ -1,0 +1,27 @@
+{
+  "id": "nextjs/router/layout",
+  "title": "可复用的布局",
+  "description": "Next.js的layout是一个可复用的布局，不同的子页面可以共享布局容器，页面跳转时，layout容器不会重新渲染。",
+  "source": "@site/docs/nextjs/03.router/02.layout.md",
+  "sourceDirName": "nextjs/03.router",
+  "slug": "/nextjs/router/layout",
+  "permalink": "/ChBlog/en/docs/nextjs/router/layout",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nextjs/03.router/02.layout.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "介绍",
+    "permalink": "/ChBlog/en/docs/nextjs/router/index"
+  },
+  "next": {
+    "title": "404页面",
+    "permalink": "/ChBlog/en/docs/nextjs/router/not-found"
+  }
+}
