@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknext_js_guides=self.webpackChunknext_js_guides||[]).push([[7971],{2339:e=>{e.exports=JSON.parse('{"permalink":"/ChBlog/blog/tags/next-js","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

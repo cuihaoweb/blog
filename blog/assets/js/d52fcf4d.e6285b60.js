@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknext_js_guides=self.webpackChunknext_js_guides||[]).push([[5757],{6044:e=>{e.exports=JSON.parse('{"label":"docker","permalink":"/ChBlog/blog/tags/docker","allTagsPath":"/ChBlog/blog/tags","count":1,"unlisted":false}')}}]);

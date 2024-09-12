@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknext_js_guides=self.webpackChunknext_js_guides||[]).push([[1020],{1991:s=>{s.exports=JSON.parse('{"label":"ssg","permalink":"/ChBlog/en/blog/tags/ssg","allTagsPath":"/ChBlog/en/blog/tags","count":1,"unlisted":false}')}}]);
