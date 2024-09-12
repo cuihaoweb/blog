@@ -40,9 +40,12 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pnpm-
 
-      - name: Install and Build
+      - name: Install
         run: |
           pnpm i --no-frozen-lockfile
+
+      - name: Build
+        run: |
           npm run build
 
       - name: Clean node_modules
