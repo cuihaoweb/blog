@@ -52,6 +52,8 @@ jobs:
         run: |
           rm -rf .gitignore
           mv script/.gitignore.template .gitignore
+          shopt -s extglob
+          rm -rf !(build|script)
 
       - name: Deploy rb branch
         uses: JamesIves/github-pages-deploy-action@v4
